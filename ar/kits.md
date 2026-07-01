@@ -16,7 +16,7 @@
 ## _Standard Kits_ - الكتات الأساسية
 
 تتكون الـ Kits الأساسية من 7 Kits تظهر في شاشة الـ Spawn، وتمثل الأدوار الأساسية التي تتألف منها Squad المشاة. ويوضح الجدول التالي نظرة عامة على هذه الـ Kits السبع، بالإضافة إلى عدد الـ Kits المسموح بها من كل نوع داخل الـ Squad الواحد، والحد الأدنى لعدد أفراد الـ Squad المطلوب حتى يتمكن اللاعبون من استخدام كل Kit عند الـ Spawn.
-| Kit | Limitation per squad | Minimum Squad Size |
+الـ Kit | الحد الأقصى لكل فرقة (Squad) | الحد الأدنى لعدد أفراد الفرقة (Squad)
 | --- | --- | --- |
 | **Officer** | 1 | 2 |
 | **Medic** | 2 | 2 |
@@ -24,7 +24,7 @@
 | **Breacher** | 1 | 4 |
 | **Grenadier** | 1 | 6 |
 | **Light Anti-Tank** | 1 | 4 |
-| **Rifleman** | Unlimited | 1 |
+| **Rifleman** | غير محدود | 1 |
 
 Having these limitations in mind, it can be said that the typical 8-man squad usually has the a composition of 1 of each of those kits but with 2 medics.
 
