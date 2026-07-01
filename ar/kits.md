@@ -107,7 +107,7 @@
 
 يمكنك العثور على شرحٍ أكثر تفصيلًا حول الـ Collaborator والمدنيين (Civilians) في قسمٍ منفصل من هذا الدليل.  [**هنا**](the_civilian.md#the_civilian).
 
-## _Vehicle Kits_ {#other-kits}
+## _Vehicle Kits_ - كتات المركبات
 
 In addition to the kits already described, there are some special kits to access the larger military vehicles and aircraft; these are called the **Crewman** \(Armored Vehicles\) and the **Pilot** \(Air Vehicles\) kit. Without them, accessing key functionalities of these vehicles is impossible and only a black screen will be shown when entering driver, gunner, co-pilot and certain other seats of a vehicle. 
 
