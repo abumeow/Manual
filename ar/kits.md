@@ -30,7 +30,7 @@
 
 لاحظ أن كل Kit في قائمة الاختيار داخل شاشة الـ Spawn يحتوي على زرين: "Standard" و"Alternative". ويرجع ذلك إلى أن لكل Kit نسختين مختلفتين. وبحسب الفصيل (Faction)، فإن الاختلاف بينهما يكون غالبًا في نوع منظار السلاح (Scope أو Reflex أو بدون منظار). ومع ذلك، ففي بعض الحالات، وخاصةً لدى الفصائل غير النظامية، لا يقتصر الاختيار على المنظار أو المشاهد الحديدية (Iron Sights)، بل يكون بين أسلحة نارية مختلفة تمامًا.
 
-Note as well that, for playability purposes, in addition to the squad limitations above, the **Grenadier** and the **Light Anti-Tank** kits are also limited to a maximum number of them **per team**, depending on the number of players:
+لاحظ أيضًا أنه، ولأغراض تحقيق التوازن في أسلوب اللعب، بالإضافة إلى القيود الخاصة بكل فرقة (Squad) المذكورة أعلاه، فإن الـ Kits الخاصة بـ **Grenadier وLight Anti-Tank** تخضع أيضًا لحد أقصى لعددها على مستوى الفريق (Team)، ويعتمد هذا الحد على إجمالي عدد اللاعبين في الفريق.
 
 | Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
 | --- | --- | --- | --- | --- | --- |
