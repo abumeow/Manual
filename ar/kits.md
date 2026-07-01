@@ -76,8 +76,7 @@
 
 نظرًا للطبيعة شديدة التقييد لهذه الكتات، يُنصح بشدة اللاعبين الجدد وقليلي الخبرة بعدم استخدامها. فالاستخدام غير الصحيح لها قد يؤدي إلى إهدار هذه الموارد المهمة للفريق وفقدانها، مما يضع الفريق في موقف غير مواتٍ بشكل ملحوظ. وتذكّر دائمًا أن تطلب إذن قائد الفرقة (Squad Leader) قبل أخذ أيٍ من هذه الكتات.
 
-Here follows a more detailed description of each specialized kit:
-
+فيما يلي شرحٌ تفصيلي لكل كت من الكتات المتخصصة:
 * ![](../assets/kit_icons/kit_mg_outline.png)**Machine Gunner \(MG\)**. Although a heavier and more cumbersome version of the Automatic Rifleman \(AR\), thanks to his greater firepower, the Machine Gunner is a lethal soldier cappable of pinning down entire squads and is unparalelled in long-distance engagements.
 * ![](../assets/kit_icons/kit_marksman_outline.png)**Marksman**. The Marksman excels providng his squad with low rate but high accuracy fire. He is a proficient shooter while engaging objectives or enemies beyond the rifleman range.
 * ![](../assets/kit_icons/kit_claymore_outline.png)**Anti-Personnel Rifleman \(AP\)**. The AP Rifleman comes with powerful anti-personnel mines equipped with remote detonators. He is most useful preparing ambushes or using his explosives to defend tactical objectives.
