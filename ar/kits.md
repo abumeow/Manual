@@ -88,7 +88,7 @@
 
 ## _Insurgency Kits_ - كتات التمرد
 
-Unique to some of the irregular forces and/or the Insurgency game mode are a number of kits for use in asymmetric styles of warfare. Often less sophisticated than to military issued gear in terms of capability, the insurgent kits are often issued a varied mixture of firearms and an assortment of other improvised equipment to help mitigate the aforementioned capability gap. Particularly of note is the Iraqi Insurgency as their infantry small arms table is vastly different from all other factions and thus warrants a closer inspection:
+تتميز بعض الفصائل غير النظامية، و/أو طور التمرد (Insurgency)، بمجموعة من الكتات الخاصة المصممة لأساليب القتال غير المتكافئ (Asymmetric Warfare). وغالبًا ما تكون كتات المتمردين أقل تطورًا من حيث القدرات مقارنةً بالمعدات العسكرية النظامية، لذلك تُزوَّد بتشكيلة متنوعة من الأسلحة النارية، إلى جانب مجموعة من المعدات البدائية والمرتجلة، للمساعدة في تعويض هذا الفارق في القدرات. ويُعد تمرد العراق (Iraqi Insurgency) مثالًا بارزًا على ذلك، إذ تختلف تشكيلة أسلحة المشاة الخفيفة لديه اختلافًا كبيرًا عن جميع الفصائل الأخرى، مما يستدعي إلقاء نظرة أكثر تفصيلًا عليها.
 
 **Iraqi Insurgent Spawn Screen Kits**
 * ![](../assets/kit_icons/kit_officer_outline.png)**Cell Leader**. The Insurgent version of the Officer Kit.
