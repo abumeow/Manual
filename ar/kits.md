@@ -47,7 +47,7 @@
 * ![](../assets/kit_icons/kit_grenadier_outline.png)**Grenadier**: يُسمح بوجود كت (Kit) واحدة فقط من هذا النوع في كل فرقة (Squad)، وبحد أقصى 8 عدات (Kits) في الفريق (Team). تُجهَّز عادةً بقاذف قنابل يُثبَّت أسفل البندقية الهجومية. تتمثل مهمتها الأساسية في قصف المناطق ذات الرؤية المحدودة التي يُشتبه بوجود الأعداء فيها، بالإضافة إلى مضايقة المركبات الخفيفة وإضعافها. وتُعد هذه العدة فعالة بشكل خاص في الاشتباكات بعيدة المدى، وكذلك عند التعامل مع الأعداء المتحصنين داخل المباني.
 ## _Specialist Kits_ - الكتات المتخصصة 
 
-In addition to the above described Standard Kits, in PR there exists a wide selection of **Specialist Kits** capable of highly specialized tasks. Some of these kits include the Heavy Anti-Tank, the Combat Engineer, the Marksman, the Sniper or the Anti-Air Rifleman, among others. 
+بالإضافة إلى الكتات الأساسية (Standard Kits) المذكورة سابقًا، تضم Project Reality مجموعة واسعة من الكتات المتخصصة (Specialist Kits) المصممة لأداء مهام متخصصة للغاية. ومن بين هذه الكتات: Heavy Anti-Tank (HAT)، وCombat Engineer، وMarksman، وSniper، وAnti-Air Rifleman (AA)، بالإضافة إلى غيرها.
 
 It is not possible to directly spawn with one of these highly restricted, specialised kits. In order to get them, a player needs to request them from allied supply crates or vehicles following a procedure described [below](kits.md#kit-request). Furthermore, depending on the number of players in the team, each one of **these kits are limited to a specific number of them per team**. In the following table, these restrictions are summarized:
 
