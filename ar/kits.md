@@ -26,7 +26,7 @@
 | **Light Anti-Tank** | 1 | 4 |
 | **Rifleman** | غير محدود | 1 |
 
-Having these limitations in mind, it can be said that the typical 8-man squad usually has the a composition of 1 of each of those kits but with 2 medics.
+وبناءً على هذه القيود، يمكن القول إن التشكيلة المعتادة لفرقة (Squad) مكوّنة من 8 لاعبين تتكون غالبًا من Kit واحد من كل نوع، باستثناء الـ Medic، حيث تضم الفرقة عادةً اثنين منه.
 
 Note that each kit in the selection menu of the spawn screen has two buttons: **"Standard"** and **"Alternative"**. This is because there are two variants of each kit. Depending on the faction, this **typically affects the choice of optics** \(scope, reflex or none\), although in some cases, particularly with unconventional forces the choice is not between an optic or iron sights but between completely different firearms instead.
 
