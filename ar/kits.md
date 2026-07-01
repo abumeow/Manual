@@ -37,8 +37,7 @@
 | **Light Anti-Tank** | 1 | 2 | 4 | 5 | 8 |
 | **Grenadier** | 1 | 2 | 4 | 5 | 8 |
 
-Here is a more detailed explanation of each kit:
-
+فيما يلي شرحٌ أكثر تفصيلًا لكل Kit:
 * ![](../assets/kit_icons/kit_light_scope_outline.png)**Rifleman**. Unlimited kit, representing the standard infantry grunt. Typically, it is equipped with an assault rifle, fragmentation and smoke grenades and a shovel. Lacking a specialized role, the rifleman is ideal for more aggressive positions and maneuvers. It is also the only class with an ammo bag, which allows him to resupply teammates.
 * ![](../assets/kit_icons/kit_officer_outline.png)**Officer**. Limited to 1 per squad and only available to the Squad Leader. In addition of the standard fighting equipment, this kit comes with a side weapon, an officer radio and binoculars. He can have direct voice communication with the other officers in the team, place markers on the map, build emplacements and fortifications, and request support missions \(artillery, mortar fire, armor or air support, etc.\) You can find more detailed information about this crucial role in the [**Squad Leader**](the_squad_leader.md#the_squad_leader) section of this manual.
 * ![](../assets/kit_icons/kit_medic_outline.png)**Medic**. Limited to 2 per squad. He is responisble of providing medical assitance in the battlefield, and therefore, it is one of the roles that affect squad performance the most. Battle-awareness and a survival instinct are essential for this role. In addition to an assault rifle, it comes equipped with several smoke grenades, a first-aid kit, epipens and field dressings. It is the only kit capable of dragging wounded teammates. 
