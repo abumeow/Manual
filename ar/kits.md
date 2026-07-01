@@ -103,9 +103,9 @@
   
 لا يستطيع المتمردون العراقيون، في معظم الحالات، الحصول على بعض أسلحتهم الثقيلة من قائمة الـ Spawn. وبدلًا من ذلك، يمكنهم التقاطها أو طلبها من محطة إصلاح المركبات في القاعدة الرئيسية (Main Base Vehicle Repair Station) أو من مخزن أسلحة (Cache) نشط. كما توفر مخازن أسلحة التمرد العراقي عددًا من الرشاشات (Machine Guns) التي لا يمكن لفرق (Squads) المتمردين الحصول عليها بطرق أخرى. كذلك يمكن، في القاعدة الرئيسية، التقاط عدد محدود من كتات الـ Marksman وSniper وEngineer وRPG.
 
-The last class unique to the insurgent forces is the Civilian: When dropping a kit, the player is issued a dummy kit. Some irregular factions gain the civilian status effect when using it for 2 minutes or longer. The civilian kit, much like the collaborator mentioned above acts like a scout and a deterrent against military assaults, but has no means to help the team in terms of other support equipment.
+آخر فئة تنفرد بها قوات المتمردين هي الـ Civilian. فعند إسقاط الكت (Kit)، يحصل اللاعب على كت مدني (Dummy Kit). وتكتسب بعض الفصائل غير النظامية حالة "مدني" (Civilian Status) عند استخدام هذا الكت لمدة دقيقتين أو أكثر. ويعمل كت الـ Civilian، على غرار كت الـ Collaborator المذكور سابقًا، ككشاف وعنصر ردع ضد الهجمات العسكرية، إلا أنه لا يمتلك أي معدات دعم يمكن أن تساعد الفريق.
 
-A more in-depth explanation on the collaborator and civilians can be found in a separate section of the manual  [**here**](the_civilian.md#the_civilian).
+يمكنك العثور على شرحٍ أكثر تفصيلًا حول الـ Collaborator والمدنيين (Civilians) في قسمٍ منفصل من هذا الدليل.  [**هنا**](the_civilian.md#the_civilian).
 
 ## _Vehicle Kits_ {#other-kits}
 
