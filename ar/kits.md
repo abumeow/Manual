@@ -109,7 +109,7 @@
 
 ## _Vehicle Kits_ - كتات المركبات
 
-In addition to the kits already described, there are some special kits to access the larger military vehicles and aircraft; these are called the **Crewman** \(Armored Vehicles\) and the **Pilot** \(Air Vehicles\) kit. Without them, accessing key functionalities of these vehicles is impossible and only a black screen will be shown when entering driver, gunner, co-pilot and certain other seats of a vehicle. 
+بالإضافة إلى الكتات التي سبق شرحها، توجد بعض الكتات الخاصة اللازمة لتشغيل المركبات العسكرية الثقيلة والطائرات، وهي كت الـ Crewman (للمركبات المدرعة) وكت الـ Pilot (للمركبات الجوية). وبدون هذه الكتات، لن تتمكن من استخدام الوظائف الأساسية لهذه المركبات، وسيظهر لك فقط شاشة سوداء عند الجلوس في مقعد السائق، أو الرامي، أو مساعد الطيار، أو بعض المقاعد الأخرى في المركبة.
 
 They are one of the few kits which have no limitations on both how many people need to be in the squad to be requested and how many of them can be issued per squad in total. As specialised kits, they are very limited in their choice of weaponry, with only a small number of factions issuing rifles to their Crewmen, with Pilots receiving pistols only. As they are a type of Specialist Kit, it is not possible to directly spawn with them and must be requested as usual \(see [below](kits.md#kit-request)\). They have, however, no restriction about the number of them that can simultaneously be in a team and thus can also be considered unlimited kits.
 
