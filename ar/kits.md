@@ -45,7 +45,7 @@
 * ![](../assets/kit_icons/kit_mountaineer_outline.png)**Breacher**: تقتصر هذه الكت (Kit) على واحدة لكل فرقة (Squad). يتخصص حاملها في أعمال الهدم، كما يؤدي دور عنصر الاقتحام الأول عند اختراق المباني. تتضمن تجهيزاته بندقية هجومية، وخطاف تسلق لتجاوز العوائق، وبندقية خرطوش، بالإضافة إلى عدة عبوات من متفجرات C4 تُستخدم في عمليات الهدم التكتيكية.
 * ![](../assets/kit_icons/kit_at_outline.png)**Light Anti-Tank \(LAT\)**: تقتصر هذه الكت (Kit) على واحدة لكل فرقة (Squad)، وبحد أقصى 8 لكل فريق (Team). تُعد هذه العدة نسخةً من رامي البنادق (Rifleman)، لكنها مزودة ببندقية هجومية ومنظومة مضاد دروع خفيفة محمولة على الكتف. ويتمثل دورها الأساسي في توفير قدرة خفيفة لمواجهة المدرعات، مما يمكّنها من ردع وتحييد المركبات الخفيفة والمركبات ذات التدريع الخفيف. ومع ذلك، فهي غير فعالة ضد المركبات المدرعة الثقيلة أو الدبابات.
 * ![](../assets/kit_icons/kit_grenadier_outline.png)**Grenadier**: يُسمح بوجود كت (Kit) واحدة فقط من هذا النوع في كل فرقة (Squad)، وبحد أقصى 8 عدات (Kits) في الفريق (Team). تُجهَّز عادةً بقاذف قنابل يُثبَّت أسفل البندقية الهجومية. تتمثل مهمتها الأساسية في قصف المناطق ذات الرؤية المحدودة التي يُشتبه بوجود الأعداء فيها، بالإضافة إلى مضايقة المركبات الخفيفة وإضعافها. وتُعد هذه العدة فعالة بشكل خاص في الاشتباكات بعيدة المدى، وكذلك عند التعامل مع الأعداء المتحصنين داخل المباني.
-## _Specialist Kits_ {#specialist_kits}
+## _Specialist Kits_ - الكتات المتخصصة 
 
 In addition to the above described Standard Kits, in PR there exists a wide selection of **Specialist Kits** capable of highly specialized tasks. Some of these kits include the Heavy Anti-Tank, the Combat Engineer, the Marksman, the Sniper or the Anti-Air Rifleman, among others. 
 
