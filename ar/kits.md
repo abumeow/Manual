@@ -86,7 +86,7 @@
 * ![](../assets/kit_icons/kit_aa_outline.png)**Anti-Air Rifleman \(AA\)**: يُجهَّز بمنظومة دفاع جوي محمولة على الكتف، مما يجعله العنصر المسؤول عن ردع وإسقاط الأهداف الجوية المعادية. ونظرًا لأن عدد هذه الكتات يقتصر على اثنتين فقط لكل فريق (Team)، فإنه يُعد موردًا بالغ الأهمية للفريق. لذا، احرص على عدم إهدار هذه الكت!
 * ![](../assets/kit_icons/kit_ataa_outline.png)**Heavy Anti-Tank \(HAT\)**: يُعد الـ HAT تهديدًا بالغ الفعالية ضد المدرعات، كما يتمتع بقدرة كبيرة على تدمير المركبات حتى من مسافات بعيدة. ونظرًا لأن هذه الكت واحدة فقط لكل فريق (Team)، فإنها تُعد من أهم الكتات في اللعبة. وقد يؤدي فقدانها أو إهدارها إلى تغيير مجرى المعركة. لذلك، يُطلب بشدة من اللاعبين الذين لا يمتلكون الخبرة الكافية الابتعاد عن استخدام هذه الكت.
 
-## _Insurgency Kits_ {#insurgency-kits}
+## _Insurgency Kits_ - كتات التمرد
 
 Unique to some of the irregular forces and/or the Insurgency game mode are a number of kits for use in asymmetric styles of warfare. Often less sophisticated than to military issued gear in terms of capability, the insurgent kits are often issued a varied mixture of firearms and an assortment of other improvised equipment to help mitigate the aforementioned capability gap. Particularly of note is the Iraqi Insurgency as their infantry small arms table is vastly different from all other factions and thus warrants a closer inspection:
 
