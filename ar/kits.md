@@ -28,7 +28,7 @@
 
 وبناءً على هذه القيود، يمكن القول إن التشكيلة المعتادة للفرقة (Squad) مكوّنة من 8 لاعبين تتكون غالبًا من Kit واحد من كل نوع، باستثناء الـ Medic، حيث تضم الفرقة عادةً اثنين منه.
 
-Note that each kit in the selection menu of the spawn screen has two buttons: **"Standard"** and **"Alternative"**. This is because there are two variants of each kit. Depending on the faction, this **typically affects the choice of optics** \(scope, reflex or none\), although in some cases, particularly with unconventional forces the choice is not between an optic or iron sights but between completely different firearms instead.
+لاحظ أن كل Kit في قائمة الاختيار داخل شاشة الـ Spawn يحتوي على زرين: "Standard" و"Alternative". ويرجع ذلك إلى أن لكل Kit نسختين مختلفتين. وبحسب الفصيل (Faction)، فإن الاختلاف بينهما يكون غالبًا في نوع منظار السلاح (Scope أو Reflex أو بدون منظار). ومع ذلك، ففي بعض الحالات، وخاصةً لدى الفصائل غير النظامية، لا يقتصر الاختيار على المنظار أو المشاهد الحديدية (Iron Sights)، بل يكون بين أسلحة نارية مختلفة تمامًا.
 
 Note as well that, for playability purposes, in addition to the squad limitations above, the **Grenadier** and the **Light Anti-Tank** kits are also limited to a maximum number of them **per team**, depending on the number of players:
 
