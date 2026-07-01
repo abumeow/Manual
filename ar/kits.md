@@ -62,8 +62,7 @@
 | **Sniper** | 0 | 1 | 1 | 2 | 2 |
 | **Heavy Anti-Tank** | 0 | 1 | 1 | 1 | 1 |
 
-Furthermore, your squad also requires a minimum amount of players before you can request these kits:
-
+بالإضافة إلى ذلك، يجب أن تضم فرقتك (Squad) الحد الأدنى المطلوب من اللاعبين حتى تتمكن من طلب هذه الكتات:
 | Kit | Minimum Squad Size |
 | --- | --- |
 | **Machine Gunner** | 6 |
