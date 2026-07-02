@@ -25,20 +25,20 @@
 {% endfigure %}
 
 ## _المركبات المدرعة_ {#armored-vehicles}
-* Tanks and IFVs have separate driver & gunner seats. To use the gunner's position a driver or cupola gunner must be present. After switching to the gunner seat you must wait 30 seconds before you can aim the cannon \(AKA turret warm-up\).
-* The driver and gunner in a vehicle must be in the same squad.
-* Tank drivers and certain APC/IFVs have a **commander view mode** which provides a 360° view around the turret. This can be accessed by pressing 2.
-* Drivers and gunners can **zoom** their view by pressing **X**. Some tank drivers must first change to the commander view.
-* Most tanks and IFVs can use **thermal optics** in addition to their normal views. You can switch to the thermal mode by using secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”.** Some will also allow you to switch between thermal variations like WHOT/BHOT.
+* تحتوي الدبابات ومركبات المشاة القتالية (IFVs) على مقعدين منفصلين للسائق والرامي. ولا يمكن استخدام مقعد الرامي إلا إذا كان هناك سائق أو رامٍ في البرج. وبعد الانتقال إلى مقعد الرامي، يجب الانتظار لمدة 30 ثانية قبل أن تتمكن من تصويب المدفع، وهي فترة تُعرف باسم «تهيئة البرج».
+* يجب أن يكون سائق المركبة وراميها ضمن الفرقة نفسها.
+* يستطيع سائقو الدبابات، وسائقو بعض ناقلات الجنود المدرعة (APCs) ومركبات المشاة القتالية (IFVs)، استخدام وضع رؤية القائد، الذي يوفر مجال رؤية بزاوية 360° حول البرج. ويمكن الوصول إلى هذا الوضع بالضغط على المفتاح (2).
+* يمكن للسائقين والرامين تكبير مجال الرؤية بالضغط على المفتاح (X). وفي بعض الدبابات، يجب على السائق أولًا التبديل إلى وضع رؤية القائد.
+* تدعم معظم الدبابات ومركبات المشاة القتالية (IFVs) **منظارًا حراريًا** إلى جانب الرؤية العادية. ويمكن التبديل إلى الوضع الحراري بفتح قائمة الراديو الثانوية (T)، ثم اختيار «DAY / THERMAL». كما تتيح بعض المركبات التبديل بين أوضاع الرؤية الحرارية المختلفة، مثل **WHOT وBHOT**.
 
 {% figure "../assets/thermalz.png" %}
-Thermal Vision.
+الرؤية الحرارية.
 {% endfigure %}
 
-* Armored vehicles have no warning sound when they are targeted by rocket launchers or when missiles are fired at them.
-* Armored vehicles have realistic materials. This means that front and turret armor is stronger than the one in the rear and top of the vehicle. Sides of vehicles and the tracks usually have the middle ground when it comes to armor strength.
-* Tanks and IFVs usually have up to 4 types of ammunition:
-  * **Armor-piercing \(AP\):** For attacking enemy armored vehicles.
+* لا تصدر المركبات المدرعة أي إنذار عند استهدافها بقاذفات الصواريخ أو عند إطلاق الصواريخ نحوها.
+* تعتمد المركبات المدرعة نظام تدريع واقعي؛ إذ يكون تدريع المقدمة والبرج أقوى من تدريع المؤخرة وسقف المركبة. أما الجوانب والجنازير، فتتمتع بمستوى حماية متوسط مقارنةً ببقية أجزاء المركبة.
+* تحتوي الدبابات ومركبات المشاة القتالية (IFVs) عادةً على ما يصل إلى أربعة أنواع من الذخيرة:
+  * **الذخيرة الخارقة للدروع (AP)**: تُستخدم لمهاجمة المركبات المدرعة المعادية.
   * **High Explosive \(HE\)** \(loaded by pressing 2\): Effective against soft targets \(jeeps, houses, helicopters, covered infantry, etc.\)
   * **Anti-tank missiles** \(loaded by pressing 3\): Used against heavy armor.
   * **Co-axial MG** \(switched to by pressing **F**\): Used against infantry.
