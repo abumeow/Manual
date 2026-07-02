@@ -136,9 +136,9 @@
 
 | خطوات طلب الكت |
 | --- |
-| 1. Press and hold the **Secondary Radio key \(T\)** \(it will bring up a _Commo Rose_\), |
-| 2. With the mouse, select the central option of the Comm Rose \(**REQUEST / DROP KIT**\) and **left-click** on it. This will open a menu list with all kits in it |
-| 3. Move your mouse to highlight the desired kit. The highlighted HUD element then displays further STD and ALT to allow the request of a kit’s standard or alternate loadout. **Left-click** on the highlighted variant of your choice to issue the kit request |
+| 1. اضغط مع الاستمرار على مفتاح الراديو الثانوي (T)، لتظهر عجلة الاتصالات |
+| 2. باستخدام الفأرة، اختر الخيار الموجود في منتصف عجلة الاتصالات (REQUEST / DROP KIT) ثم انقر عليه بزر الفأرة الأيسر. بعد ذلك ستظهر قائمة تضم جميع الكتات المتاحة. |
+| 3. حرّك مؤشر الفأرة لتحديد الكت المطلوب. وعند تحديده، ستظهر على واجهة اللعبة خياري  STD و ALT  مما يتيح لك طلب النسخة الاساسية أو النسخة البديلة من الكت. بعد ذلك، انقر بزر الفأرة الأيسر على النسخة التي ترغب بها لإرسال طلب الحصول على الكت |
 | 4. If all conditions are met, the requested kit will be automatically picked up, discarding your current kit in the process |
 
 If your request is denied, you will see a yellow text message explaining why:
