@@ -8,7 +8,7 @@
 * قد ترتفع حرارة الأسلحة الآلية المثبتة على المركبات عند الإطلاق المستمر. راقب مؤشر الحرارة الموجود في الزاوية السفلية اليمنى من الشاشة ![](../assets/overheat.png)
 * تستخدم الرشاشات المثبتة على المركبات أحزمة ذخيرة ذات سعة محدودة، ويمكن إعادة تلقيمها بالضغط على المفتاح (R) افتراضيًا.
 * يمكن إعادة تزويد المركبات بالذخيرة وإصلاحها في مستودع الإمدادات. كما يمكنك استخدام محطة الإصلاح التي تستطيع أي شاحنة لوجستية نشرها لإجراء إصلاحات سريعة في الميدان. أما الطائرات والمروحيات، فيُعاد إصلاحها وإعادة تسليحها تلقائيًا عند موقع ظهورها.
-* Insurgents have **suicide vehicles** like an orange dumpster truck or small civilian cars packed with C4. You can detonate these with the alternative fire key\(**Right Click**\).
+* يمتلك المتمردون مركبات انتحارية، مثل شاحنة النفايات البرتقالية أو بعض السيارات المدنية الصغيرة المحملة بمتفجرات C4. ويمكن تفجيرها بالضغط على زر الإطلاق البديل (زر الفأرة الأيمن).
 * When exiting a moving ground vehicle you’ll take damage depending on its speed. You’ll be severely wounded if you exit a burning vehicle.
 * When vehicles take a lot of damage they may become **disabled**: unable to move or traverse their turret until fully repaired. 
 * Vehicles that **fire wire-guided missiles** need to be stationary for about 7 seconds before they can fire their weapon.
