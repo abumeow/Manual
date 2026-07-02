@@ -38,11 +38,11 @@
 * لا تصدر المركبات المدرعة أي إنذار عند استهدافها بقاذفات الصواريخ أو عند إطلاق الصواريخ نحوها.
 * تعتمد المركبات المدرعة نظام تدريع واقعي؛ إذ يكون تدريع المقدمة والبرج أقوى من تدريع المؤخرة وسقف المركبة. أما الجوانب والجنازير، فتتمتع بمستوى حماية متوسط مقارنةً ببقية أجزاء المركبة.
 * تحتوي الدبابات ومركبات المشاة القتالية (IFVs) عادةً على ما يصل إلى أربعة أنواع من الذخيرة:
-  * **الذخيرة الخارقة للدروع (AP)**: تُستخدم لمهاجمة المركبات المدرعة المعادية.
-  * **High Explosive \(HE\)** \(loaded by pressing 2\): Effective against soft targets \(jeeps, houses, helicopters, covered infantry, etc.\)
-  * **Anti-tank missiles** \(loaded by pressing 3\): Used against heavy armor.
-  * **Co-axial MG** \(switched to by pressing **F**\): Used against infantry.
-* Certain jeeps can **deploy smoke** by pressing the alternate fire key.
+* **الذخيرة الخارقة للدروع (AP)**: تُستخدم لمهاجمة المركبات المدرعة المعادية.
+* **شديدة الانفجار (HE)** (تُحمَّل بالضغط على المفتاح 2): فعالة ضد الأهداف غير المدرعة، مثل سيارات الجيب، والمباني، والمروحيات، والمشاة الموجودين خلف ساتر، وغيره)
+* **الصواريخ المضادة للدبابات** (تُحمَّل بالضغط على المفتاح 3): تُستخدم ضد المركبات المدرعة الثقيلة.
+* **الرشاش المحوري (Co-axial MG)** (يتم التبديل إليه بالضغط على المفتاح F): يُستخدم ضد المشاة.
+* يمكن لبعض سيارات الجيب إطلاق **ستارة دخانية** بالضغط على زر الإطلاق البديل (زر الفأرة الأيمن).
 * APC, IFV and Tank gunners can deploy smoke by selecting its weapon slot \(usually **3** or **5**\) and pressing the fire key to launch a volley of smoke bombs. Gunners can fire 2 quick volleys before having to wait 60s for the second set \(totalling 4 opportunities to cloak your position or movement with smoke\).
 * For certain vehicles the smoke will be **IR-blocking**, meaning it will also block on thermal vision. For other \(older vehicles\) you will be able to see through the smoke on thermal vision.
 
