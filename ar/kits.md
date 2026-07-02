@@ -149,8 +149,8 @@
 * **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**(يجب أن تكون بالقرب من صندوق إمدادات تابع لفريقك أو ناقلة جنود مدرعة (APC) حتى تتمكن من طلب هذا الكت)
 * **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**(يجب أن تكون بالقرب من صندوق إمدادات تابع لفريقك أو مركبة حتى تتمكن من طلب هذا الكت)
 
-If the squad that you are in fails the squad requirements:
-* **“Unavailable due to squad limitations”**
+إذا لم تستوفِ فرقتك الحد الأدنى المطلوب من عدد الأفراد:
+* **“Unavailable due to squad limitations (غير متاح بسبب عدم استيفاء متطلبات الفرقة)”**
 
 If all allowed kits have already been granted to the team:
 
