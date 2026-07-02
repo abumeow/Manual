@@ -130,7 +130,7 @@
 | تغيّر الفرقة (Squad) | تُضاف دقيقتان إلى مدة الحظر |
 | تقتل أحد زملائك في الفريق وكان يحمل كتًا محدودً | تُضاف 3 دقائق إلى مدة الحظر |
 | تُكرر إرسال طلبات الحصول على كت بشكل متتالٍ خلال فترة قصيرة | تُضاف 30 ثانية إلى مدة الحظر |
-| You kill a civilian violating the Rules of Engagement \(Insurgency\) | Blocked for +10 minutes |
+| تقتل مدنيًا بما يخالف قواعد الاشتباك في نمط التمرد | تُضاف 10 دقائق إلى مدة الحظر |
 
 To request a kit a specific key sequence needs to be followed:
 
