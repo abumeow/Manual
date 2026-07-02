@@ -27,10 +27,10 @@
 
 
 
-* ![](../assets/defend.png) علامة الدفاع (Defend Marker)
-* ![](../assets/defend%20bleed.png) علامة الدفاع (مع نزيف التذاكر) (Defend Marker with ticket bleed)
-* ![](../assets/attack_bleed.png) Attack Marker - علامة الهجوم 
-* ![](../assets/attack.png) Attack Marker - علامة الهجوم (مع نزيف التذاكر)
+* ![](../assets/defend.png) علامة الدفاع
+* ![](../assets/defend%20bleed.png) علامة الدفاع (مع نزيف التذاكر)
+* ![](../assets/attack_bleed.png) علامة الهجوم 
+* ![](../assets/attack.png) علامة الهجوم (مع نزيف التذاكر)
 
 تستخدم أنماط Vehicle Warfare وSkirmish وCOOP نفس أنواع علامات الهجوم والدفاع بشكل مشابه.
 
