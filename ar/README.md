@@ -21,7 +21,7 @@ Project Reality Forums: (https://www.realitymod.com/forum/forumdisplay.php?f=27)
 
 مرحبًا بك في PR تجربة لعب جديدة كليًا!
 
-## سجل التغييرات (Changelog)
+## سجل التغييرات
 سجل التغييرات في هذا الدليل كالتالي:
 
 ### ١٨ سبتمبر ٢٠٢٣
