@@ -5,7 +5,7 @@
 * يمكن لأي جندي تشغيل المركبات الخفيفة، والشاحنات، والقوارب، ومعظم سيارات الجيب (باستثناء المدرعة منها). أما المركبات المدرعة والمروحيات والطائرات، فتتطلب استخدام كت مخصص لتشغيلها. ولن يتمكن اللاعب الذي لا يحمل الكت المناسب من قيادة المركبة أو استخدام أسلحتها. كما لا يمكنك دخول أو استخدام مركبات العدو.لتشغيل المركبات البرية المدرعة، يجب الحصول على كت الطاقم (Crewman)، بينما يتطلب تشغيل الطائرات والمروحيات كت الطيار (Pilot). ويمكن طلب كلا الكتين من المركبة نفسها أو من صندوق الإمدادات.
 * لم يعد بالإمكان استخدام منظور الرؤية الخارجي للمركبات. ومع ذلك، زُوِّدت بعض المركبات بكاميرات خاصة، مثل الشاحنات التي توفر رؤية خلفية، وسيارات الجيب المزودة بمرايا جانبية يمكن استخدامها بالضغط على المفتاح (C).
 * يمكنك التصويب باستخدام أجهزة التصويب الخاصة بالرشاشات الثابتة والرشاشات المثبتة على المركبات بالضغط على زر الإطلاق البديل (زر الفأرة الأيمن).
-* Vehicle-mounted automatic weapons often have **overheating**. Watch the heat-HUD element on the lower right corner. ![](../assets/overheat.png)
+* قد ترتفع حرارة الأسلحة الآلية المثبتة على المركبات عند الإطلاق المستمر. راقب مؤشر الحرارة الموجود في الزاوية السفلية اليمنى من الشاشة ![](../assets/overheat.png)
 * Vehicle-mounted MGs use ammunition belts. They are in limited number and can be reloaded \(**default: R**\).
 * Vehicles can be **resupplied & repaired** at the supply depot. Or use the repair station that any logistics truck can deploy for quick repairs in the field. Aircraft and Helicopters are automatically repaired and rearmed at their spawn location.
 * Insurgents have **suicide vehicles** like an orange dumpster truck or small civilian cars packed with C4. You can detonate these with the alternative fire key\(**Right Click**\).
