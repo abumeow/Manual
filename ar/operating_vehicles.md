@@ -43,11 +43,11 @@
 * **الصواريخ المضادة للدبابات** (تُحمَّل بالضغط على المفتاح 3): تُستخدم ضد المركبات المدرعة الثقيلة.
 * **الرشاش المحوري (Co-axial MG)** (يتم التبديل إليه بالضغط على المفتاح F): يُستخدم ضد المشاة.
 * يمكن لبعض سيارات الجيب إطلاق **ستارة دخانية** بالضغط على زر الإطلاق البديل (زر الفأرة الأيمن).
-* APC, IFV and Tank gunners can deploy smoke by selecting its weapon slot \(usually **3** or **5**\) and pressing the fire key to launch a volley of smoke bombs. Gunners can fire 2 quick volleys before having to wait 60s for the second set \(totalling 4 opportunities to cloak your position or movement with smoke\).
-* For certain vehicles the smoke will be **IR-blocking**, meaning it will also block on thermal vision. For other \(older vehicles\) you will be able to see through the smoke on thermal vision.
+* يمكن لرامي ناقلات الجنود المدرعة (APCs)، ومركبات المشاة القتالية (IFVs)، والدبابات إطلاق قنابل دخانية باختيار خانة سلاحها (عادةً المفتاح **3** أو **5**) ثم الضغط على زر الإطلاق لإطلاق دفعة من القنابل الدخانية. ويمكن للرامي إطلاق دفعتين متتاليتين بسرعة، ثم يجب الانتظار 60 ثانية حتى تصبح الدفعة الثانية جاهزة مرة أخرى، ليصبح المجموع أربع دفعات يمكن استخدامها لإخفاء موقع المركبة أو حركتها بالدخان.
+* في بعض المركبات، تحجب الستارة الدخانية الأشعة تحت الحمراء (**IR**)، لذلك لا يمكن الرؤية من خلالها باستخدام المنظار الحراري. أما في المركبات الأقدم، فيظل بالإمكان الرؤية عبر الدخان باستخدام المنظار الحراري.
 
 {% figure "../assets/vehiclesmoke.png" %}
-Vehicle deployed smoke.
+الستارة الدخانية التي تطلقها المركبة.
 {% endfigure %}
 
 ## _Helicopters_ {#helicopters}
