@@ -134,7 +134,7 @@
 
 لطلب كت (Kit)، يجب اتباع الخطوات التالية بالترتيب:
 
-| Key Sequence to Request a Kit |
+| خطوات طلب الكت |
 | --- |
 | 1. Press and hold the **Secondary Radio key \(T\)** \(it will bring up a _Commo Rose_\), |
 | 2. With the mouse, select the central option of the Comm Rose \(**REQUEST / DROP KIT**\) and **left-click** on it. This will open a menu list with all kits in it |
