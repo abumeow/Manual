@@ -142,10 +142,12 @@
 | 4. إذا استوفيت جميع الشروط، فسيتم الحصول على الكت المطلوب تلقائيًا، مع إسقاط الكت الذي تحمله حاليًا |
 إذا رُفض طلبك، فستظهر رسالة باللون الأصفر توضح سبب الرفض:
 
+إذا رُفض طلبك، فستظهر رسالة باللون الأصفر توضح سبب الرفض:
+
 إذا حاولت طلب الكت من موقع غير مناسب:
 
-* **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**, OR
-* **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
+* **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**(يجب أن تكون بالقرب من صندوق إمدادات تابع لفريقك أو ناقلة جنود مدرعة (APC) حتى تتمكن من طلب هذا الكت)
+* **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**(يجب أن تكون بالقرب من صندوق إمدادات تابع لفريقك أو مركبة حتى تتمكن من طلب هذا الكت)
 
 If the squad that you are in fails the squad requirements:
 * **“Unavailable due to squad limitations”**
