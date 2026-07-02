@@ -162,16 +162,15 @@
 
 ## _إجراءات إسقاط الكت_ {#drop-kit}
 
-In certain situations, you might want to drop your kit. Most typically:
+قد تحتاج في بعض الحالات إلى إسقاط الكت، ومن أبرزها:
 
-* You intentionally or unintentionally picked an enemy kit \(which **will kill you after 30 seconds** unless you drop it\), 
-* You are a wounded medic and want to give your kit to someone else so that they can heal you, 
-* You wish to swap kits with someone more experienced or skillful than you, 
-* You want to become a Civilian while playing in Insurgency mode.
+* التقطت كتًا تابعًا للعدو، سواء عمدًا أو عن طريق الخطأ، وسيؤدي ذلك إلى مقتل شخصيتك بعد 30 ثانية ما لم تُسقط الكت 
+* أُصبت وأنت تحمل كت المسعف، وتريد إسقاطه ليتمكن لاعب آخر من التقاطه ومعالجتك 
+* ترغب في تسليم الكت إلى لاعب أكثر خبرة أو مهارة منك 
+* ترغب في أن تصبح مدنيًا أثناء اللعب في نمط التمرد
 
-Simply follow this sequence:
-
-| Key Sequence to Drop your Kit |
+ما عليك سوى اتباع الخطوات التالية:
+| خطوات إسقاط الكت |
 | --- |
 | 1. Press and hold down the **Secondary Radio key \(T\)** |
 | 2. Select the middle option of the _Commo Rose_ \(**REQUEST / DROP KIT**\) and **right-click** on it. This will drop your old kit below you, and you will wear an invisible Unarmed Kit. |
