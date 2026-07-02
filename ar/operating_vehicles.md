@@ -2,7 +2,7 @@
 
 ## _General Vehicle Information_ {#general-vehicle-information}
 
-* Light vehicles, trucks and boats & most jeeps \(except light armored ones\) can be operated by any soldier. Armored vehicles, helicopters and aircraft need specified vehicle kits to operate. Players not using the correct kit will not be able to steer the vehicle or use the weapons. You can't enter or use enemy vehicles. For ground vehicles you then require a **Crewman** kit. For aircraft & helicopters it’s the **Pilot** kit. These are either requestable by the vehicle or by a supply crate.
+* يمكن لأي جندي تشغيل المركبات الخفيفة، والشاحنات، والقوارب، ومعظم سيارات الجيب (باستثناء المدرعة منها). أما المركبات المدرعة والمروحيات والطائرات، فتتطلب استخدام كت مخصص لتشغيلها. ولن يتمكن اللاعب الذي لا يحمل الكت المناسب من قيادة المركبة أو استخدام أسلحتها. كما لا يمكنك دخول أو استخدام مركبات العدو.لتشغيل المركبات البرية المدرعة، يجب الحصول على كت الطاقم (Crewman)، بينما يتطلب تشغيل الطائرات والمروحيات كت الطيار (Pilot). ويمكن طلب كلا الكتين من المركبة نفسها أو من صندوق الإمدادات.
 * External views for vehicles have been removed. But for certain vehicles there are custom cameras, like the trucks which can watch behind them and the jeeps with their side mirrors\(**C**\).
 * You can **aim down the sights** of static and vehicle-mounted MGs by pressing the alternate fire key\(**Right Mouse Button**\).
 * Vehicle-mounted automatic weapons often have **overheating**. Watch the heat-HUD element on the lower right corner. ![](../assets/overheat.png)
