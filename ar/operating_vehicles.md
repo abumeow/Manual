@@ -14,11 +14,11 @@
 * يجب أن تبقى المركبات التي تطلق صواريخ موجهة سلكيًا ثابتة لمدة تقارب 7 ثوانٍ قبل أن تتمكن من إطلاق الصاروخ.
 * عند تبديل نوع ذخيرة سلاح المركبة، ستحتاج عادةً إلى الانتظار قليلًا قبل أن تتمكن من إطلاق النار.
 * يمكنك استخدام المفتاح Left Ctrl مع تحريك الفأرة للنظر بحرية أثناء تشغيل معظم المركبات، مثل المروحيات والطائرات النفاثة وسيارات الجيب والقوارب والشاحنات. أما ناقلات الجنود المدرعة (APCs) ومركبات المشاة القتالية (IFVs)، فلا تدعم هذه الميزة لأنها تستخدم كاميرات مخصصة.
-* On public servers \(not in local gamemodes\) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
-* When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
-* Drivers of APCs, IFVs and some transport vehicles can **deploy ammo boxes** \(500 ammo points\) by selecting them with Scroll Wheel and pressing the alternative fire key\(**Right Mouse**\).
-* Vehicles have different icons on the map \(for more go to [Vehicle Icons](vehicle_icons.md)\).
-* Some maps feature expanded airspace for CAS vehicles. **Off-map airbases** are used for taking off and landing air assets like jets and helicopters. Reaching an off-map airbase requires you to get close to a yellow airport sign, located near the commander post \(ACV\) in your main base and wait a few seconds to be teleported.
+* في الخوادم العامة (وليس عند اللعب محليًا)، يمكنك الانتقال بسرعة إلى المقعد المتاح التالي داخل المركبة بالضغط على المفتاح (F8).
+* أثناء وجودك داخل مركبة، يمكنك رؤية معلومات المقاعد المشغولة في الزاوية السفلية اليسرى من الشاشة. وتُعرض المقاعد الأساسية فقط، مثل مقعد السائق والرامي، على هيئة مؤشرات مربعة. أما مقاعد الركاب فلا تظهر بهذه المؤشرات، وإنما يُعرض عدد الركاب في عداد منفصل.
+*يمكن لسائقي ناقلات الجنود المدرعة (APCs)، ومركبات المشاة القتالية (IFVs)، وبعض مركبات النقل نشر صناديق ذخيرة (500 نقطة ذخيرة) عن طريق تحديدها باستخدام عجلة الفأرة، ثم الضغط على زر الإطلاق البديل (زر الفأرة الأيمن).
+* تظهر المركبات على الخريطة بأيقونات مختلفة (لمزيد من المعلومات، راجع قسم «أيقونات المركبات»)(vehicle_icons.md)\).
+* تتضمن بعض الخرائط مجالًا جويًا موسعًا لمركبات الإسناد الجوي القريب (CAS). وتُستخدم قواعد جوية خارج حدود الخريطة لإقلاع وهبوط الطائرات النفاثة والمروحيات. وللوصول إلى إحدى هذه القواعد، اقترب من علامة المطار الصفراء الموجودة بالقرب من مركبة القائد (ACV) في القاعدة الرئيسية، ثم انتظر بضع ثوانٍ ليتم نقلك إليها تلقائيًا.
 
 {% figure "../assets/off_map_airbase.png" %}
 Off-map airbase sign.
