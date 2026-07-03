@@ -128,13 +128,13 @@
 * عند التبديل إلى الرشاش المحوري، يقوم نظام التحكم في إطلاق النيران بضبط زاوية سبطانة السلاح تلقائيًا، بحيث تصيب طلقات الرشاش مركز علامة التصويب. وينطبق الأمر نفسه عند التبديل إلى أنواع الذخيرة الأخرى، حيث يضبط النظام السبطانة بما يتناسب مع السلاح أو الذخيرة المختارة. وللتبديل بين المدفع الرئيسي والرشاش المحوري، استخدم مفتاح تبديل السلاح **(F افتراضيًا)**.
 * رغم أن نظام التحكم في إطلاق النيران يضبط السلاح تلقائيًا في الظروف العادية، يمكن للرامي أيضًا ضبط مسافة التصويب يدويًا. إلا أن هذا الوضع لا يستفيد من تصحيحات التصويب التلقائية التي يوفرها النظام (انظر أدناه).
 إذا كانت المسافة إلى الهدف أكبر من المدى الفعّال للذخيرة المستخدمة، فلن يتمكن السلاح من إصابة الهدف. وفي هذه الحالة، ستظهر قيمة المسافة باللون الأحمر، أو سيظهر الرمز ^ ^ ^ ^ على شاشة العرض لتنبيهك إلى أن الهدف خارج مدى السلاح.
-* A small number of vehicles will utilize a laser range finder to receive the correct distance to the target, but instead of shifting the gun to aim in the center crosshair, the position of the crosshair within the scope will change. Changing to the coaxial machine gun or other types of ammunition will change the crosshair position automatically again. Just like above, manually dialing is also possible.
-* There is a very, very brief period after lasing and the gun entering the correct position. If you’re too hasty you may end up missing.
-* The laser range finder has a cool down period of about one second in between uses, indicated by the icon turning red. 
-* It cannot be used to set up the gun for distances under 150m. Lasing at such a low distance or into the horizon will revert the gun to settle into neutral position, with the range indicator showing **v v v v**. 
-* The laser has an error of around ± 5m.
-* The game will memorize the last setting of the gunner, regardless of whether he left it or was killed in it.
-* The gun’s warm up phase does not prevent the gunner from using the laser range finder or the manual range dialing.
+* تستخدم بعض المركبات محدد مدى ليزري لقياس المسافة إلى الهدف، ولكن بدلًا من ضبط سبطانة السلاح تلقائيًا، يحرك نظام التحكم في إطلاق النيران علامة التصويب داخل المنظار إلى موضع الإصابة الصحيح. وعند التبديل إلى الرشاش المحوري أو إلى نوع آخر من الذخيرة، تتغير علامة التصويب تلقائيًا بما يتناسب مع السلاح أو الذخيرة المختارة. وكما في الأنظمة السابقة، يمكن أيضًا ضبط مسافة التصويب يدويًا.
+* يوجد تأخير بسيط جدًا بين قياس المسافة بالليزر وضبط السلاح على زاوية الرمي الصحيحة. لذا، إذا استعجلت وأطلقت النار قبل اكتمال الضبط، فقد لا تصيب الهدف.
+* بعد كل استخدام، يحتاج محدد المدى الليزري إلى نحو ثانية واحدة قبل أن يصبح جاهزًا للاستخدام مرة أخرى. وخلال هذه الفترة، تتحول أيقونة الليزر في شاشة العرض إلى اللون الأحمر، للدلالة على أنه غير جاهز للاستخدام. 
+* لا يمكن استخدام محدد المدى الليزري لضبط التصويب على أهداف تبعد أقل من **150 مترًا**. وإذا حاولت قياس مسافة هدف أقرب من ذلك، أو وجهت الليزر نحو الأفق دون وجود هدف، فسيعيد نظام التحكم في إطلاق النيران السلاح إلى وضعه الافتراضي، وستظهر الإشارة **v v v v** بدلًا من قيمة المسافة على شاشة العرض. 
+* يبلغ هامش الخطأ في قياس المسافة بواسطة محدد المدى الليزري نحو ±5 أمتار، أي قد تزيد أو تنقص المسافة المقاسة بمقدار يصل إلى 5 أمتار.
+* تتذكر اللعبة آخر إعدادات التصويب التي استخدمها الرامي، حتى إذا غادر مقعد الرامي أو قُتل، وستظل هذه الإعدادات محفوظة عند العودة إلى المقعد.
+* حتى أثناء مرحلة تجهيز السلاح للإطلاق، يمكن للرامي استخدام محدد المدى الليزري أو ضبط مسافة التصويب يدويًا دون انتظار انتهاء هذه المرحلة.
 * The FCS on SPAAA \(Self-Propelled Anti-Aircraft Artillery\) vehicles is always active and does not require any additional input from the player.
 * When crewing an SPAAA with radar equipment, the FCS will display a circle indicating the correct target lead after aquiring a lock on the target. The enemy aircraft can deploy flares to break the lock, which removes the aiming circle temporarily.
 
