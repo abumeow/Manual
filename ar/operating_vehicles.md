@@ -88,14 +88,14 @@
 * لا تحتوي الطائرات على كاميرا أمامية في المقدمة، ولكن يمكنك مع ذلك النظر إلى الخلف باستخدام مفتاح تبديل الكاميرا **(C)** أو المفتاح F11. وللعودة إلى النظر للأمام، اضغط على المفتاح F9 أو استخدم مفتاح أي سلاح.
 * تُطلق **الشعلات الحرارية (Flares)** بشكل فردي عند الضغط على المفتاح **(X)**، ويجب إعادة تزويدها بالشعلات الحرارية بعد نفادها. وبما أن صوت التحذير لا يصدر إلا بعد أن يتمكن العدو من تثبيت القفل على طائرتك لمدة نصف ثانية، يُنصح باستخدامها أثناء تنفيذ هجوم لتقليل فرصة تمكن العدو من تثبيت القفل عليك.
 
-### Landing Your Aircraft
-To land in PR:BF2 you need to plan ahead much longer than in BF2. Here are some tips on how to make your first landings easier:
-1. You need to reduce your speed in advance until you can just stay level without falling out of the sky \(about 40% power\) with the stall airspeed being different for each aircraft. \(You can find the stall speed of your aircraft yourself by just going up high and slowing your aircraft down until it starts to lose control and fall, but doing it up high will mean you can regain control by opening up the throttle and pointing your nose down, then just stay above that stall speed while landing, until your wheels hit the ground.\)
-2. When you are at this speed you should start your approach.
-3. Imagine a point on the map by extending the runway by about 1km.
-4. Fly to this point and turn towards the runway.
-5. When you are about 200m from the runway cut your throttle.
-6. Once you have touched the ground pull back on the stick to slow down, the planes all handle individually.
+### كيفية هبوط الطائرة
+للهبوط في PR:BF2 تحتاج إلى التخطيط مسبقًا لفترة أطول مقارنةً بـ BF2. فيما يلي بعض النصائح التي ستجعل عمليات الهبوط الأولى أسهل:
+1. يجب أن تقلل سرعتك مسبقًا قبل الهبوط، حتى تستطيع الحفاظ على الطيران بشكل مستقيم دون أن تبدأ الطائرة في السقوط (حوالي 40% من قوة الدفع). وتختلف سرعة الانهيار (Stall Speed) من طائرة لأخرى، وهي السرعة التي تبدأ عندها الطائرة بفقدان الرفع والسقوط. يمكنك معرفة سرعة الانهيار لطائرتك عن طريق الصعود إلى ارتفاع عالٍ ثم تقليل السرعة تدريجيًا حتى تبدأ الطائرة في فقدان التحكم والسقوط. في هذه الحالة، يمكنك استعادة السيطرة برفع قوة الدفع وتوجيه مقدمة الطائرة للأسفل. أثناء الهبوط، حافظ دائمًا على سرعة أعلى من سرعة الانهيار حتى تلامس عجلات الطائرة الأرض. 
+2. عندما تصل إلى هذه السرعة، يجب أن تبدأ عملية الاقتراب للهبوط.
+3. تخيّل نقطة على الخريطة عن طريق تمديد المدرج لمسافة حوالي 1 كيلومتر.
+4. توجّه إلى هذه النقطة ثم انعطف باتجاه المدرج.
+5. عندما تكون على بُعد حوالي 200 متر من المدرج، قم بخفض قوة الدفع (Throttle).
+6. بعد ملامسة الأرض، اضغط السهم إلى الخلف لتقليل السرعة. وتختلف طريقة تحكم كل طائرة عن الأخرى.
 
 ## _Fire Control Systems_ {#fire-control-systems}
 Vehicles in Project Reality use an authentic ballistic system for vehicle projectiles. Depending on the vehicle several variations of Fire Control Systems \(FCS\) computers can be used by the gunner. In principle, the FCS can calculate required adjustments to fire at the target exactly where you want to. Not only does the firing solution consider the drop of the projectile due to gravity, it also includes friction slowing down projectiles. Further it can account for the offset between the operator camera and barrel, the height difference to the target, banking of the vehicle as well as speed of the vehicle. Just as their real life counterparts, not every vehicle will have the same capabilities for their FCS. This section will delve deeper into some of the use-cases of our FCS implementations. 
