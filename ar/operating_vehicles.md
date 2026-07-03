@@ -54,14 +54,14 @@
 
 * تحتاج المروحيات إلى **فترة تهيئة** تستغرق نحو **30 ثانية**. فإذا زادت قوة الدفع قبل أن تصل شفرات المروحة إلى سرعتها التشغيلية، سيفقد الطيار السيطرة على المروحية وقد تتحطم. ولتشغيل المروحية، يجب إبقاء قوة الدفع عند وضع الخمول لمدة لا تقل عن 30 ثانية قبل محاولة الإقلاع.
 * يمكن لطياري المروحيات النظر في اتجاهات مختلفة أثناء الطيران باستخدام المفاتيح **6 و7 و8 و9**، كما يمكن ربط هذه المفاتيح بمفتاح **POV Hat Switch** في عصا التحكم، وهو مفتاح صغير متعدد الاتجاهات يُستخدم لتغيير زاوية النظر. وللعودة إلى النظر للأمام، اضغط على المفتاح **1** أو بدّل إلى أي سلاح آخر في المروحية.
-* The rudder controls are mostly effective at low speeds. At higher speeds you need to bank the helicopter to turn.
-* Players using **the pilot kit cannot occupy any of the passenger seats** of an aircraft. This is to stop players using the pilot kit as some kind of SF paratrooper assault kit because it has a parachute. If you have had to bail out of your aircraft and then receive a pickup from another aircraft, ensure you drop your pilot kit before entering the aircraft’s passenger seat otherwise you will be forced out of the helicopter.
-* The pilot of Heavy Attack Helicopters aka Gunships can fire the **unguided rockets** while the gunner controls the cannon and guided missiles.
-* Gunners in attack helicopters can zoom their weapons camera by pressing the cycle camera key \(**C**\) or by pressing the F9 to F11 keys. They can also switch to a thermal imaging mode by using the secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”** to toggle between the two.
-* The attack-helicopter's **gunner** has 4 different modes to choose from:
-  - First-person view in the cockpit,
-  - Gun-camera which controls the helicopter's gun.
-  - **Laser-guided fire mode \(LG\)** allows a semi-manual targeting mode, where you can click on the target and the missile will guide itself towards it and click again to update the targets location to the missile in flight.
+* تكون أدوات التحكم في الالتفاف (يمينًا ويسارًا) أكثر فاعلية عند السرعات المنخفضة. أما عند السرعات العالية، فيجب إمالة المروحية للدوران.
+* لا يمكن للاعبين الذين يستخدمون **كت الطيار الجلوس في أي من مقاعد الركاب** داخل الطائرات أو المروحيات. وُضع هذا القيد لمنع استخدام كت الطيار كأنه كت لقوات العمليات الخاصة (SF) للإنزال المظلي، نظرًا لأنه يتضمن مظلة. وإذا اضطررت إلى القفز من طائرتك ثم التقطتك طائرة أو مروحية أخرى، فتأكد من إسقاط كت الطيار قبل الجلوس في مقعد الركاب، وإلا فسيتم إخراجك منها تلقائيًا.
+* يمكن لطيار المروحيات الهجومية الثقيلة (Gunships) إطلاق **الصواريخ غير الموجهة**، بينما يتحكم الرامي في المدفع والصواريخ الموجهة.
+* يمكن لرامي المروحيات الهجومية تكبير كاميرا التصويب بالضغط على مفتاح تبديل الكاميرا **(C)** أو باستخدام المفاتيح من F9 إلى F11. كما يمكنه التبديل إلى وضع الرؤية الحرارية بفتح قائمة الراديو الثانوية **(T)** ثم اختيار **«DAY / THERMAL»** للتبديل بين وضعي الرؤية العادية والحرارية.
+* يمكن **لرامي** المروحية الهجومية الاختيار بين أربعة أوضاع مختلفة:
+  - منظور الشخص الأول من قمرة القيادة
+  - كاميرا المدفع، التي تتحكم في مدفع المروحية.
+  - يتيح **وضع الإطلاق الموجَّه بالليزر (LG)** التصويب شبه اليدوي، حيث يمكنك النقر على الهدف ليتجه الصاروخ إليه تلقائيًا، ثم النقر مرة أخرى أثناء طيرانه لتحديث موقع الهدف إذا تحرك.
   - **Laser-targeted fire mode** **\(LT\)** \(fire-and-forget\) locks the missile onto a laser target provided by ground troops or a scout helicopter. The laser targeted mode is the best choice if a spotter can designate the target. It allows minimal exposure of the helicopter. The laser guided mode allows the best tracking of moving targets. However if the target hasn’t been “lazed” correctly or badly, or simply for some reason the missile can’t see the target after launch like if a building gets in the way, the missile may miss.
 * Helicopter crews need to be in the same squad.
 * Helicopters must return to the helipad and land to be **rearmed/repaired**. On Carriers you can only reload on the “ramp” of the carrier - off the runway, this doesn't include the lifts.
