@@ -121,10 +121,10 @@
 {% endfigure %}
 
 * في المركبات المزوّدة بنظام التحكم في إطلاق النيران، تظهر في شاشة الرامي عدة أيقونات باللونين الأبيض أو الرمادي. وتشير كل أيقونة إلى نوع معين من تصحيحات التصويب التي يستطيع النظام تطبيقها عند ضبط السلاح تلقائيًا. وتشمل هذه التصحيحات العوامل التالية التي قد تؤثر في دقة الإصابة:
-  * ![](../assets/fcs_cap_velocity.png) Speed compensation: Compensating for the vehicle’s own movement. Does NOT correct the lead on a moving enemy target vehicle.
-  * ![](../assets/fcs_cap_height.png) Height compensation: Compensates for the difference in altitude between your vehicle and the target.
-  * ![](../assets/fcs_cap_parallax.png) Parallax compensation:  Compensating the mismatch between gun position and gunner camera position.
-  * ![](../assets/fcs_cap_roll.png) Roll compensation: Compensates the vehicle sitting at an angle.
+  * ![](../assets/fcs_cap_velocity.png) تعويض حركة المركبة: يعوض النظام تأثير حركة مركبتك على دقة التصويب، لكنه لا يعوض حركة الهدف المتحرك. لذلك، إذا كان الهدف يتحرك، فعليك التصويب أمامه بنفسك حتى تصيبه.
+  * ![](../assets/fcs_cap_height.png) تعويض فرق الارتفاع: إذا كان الهدف يقع على مستوى أعلى أو أسفل من مركبتك، فإن النظام يصحح التصويب تلقائيًا لتعويض هذا الفرق.
+  * ![](../assets/fcs_cap_parallax.png) عويض اختلاف موضع المنظار والسبطانة: يقوم نظام التحكم في إطلاق النيران بتصحيح الفرق بين موقع المنظار وموضع السبطانة، بحيث تصيب القذيفة النقطة التي تشير إليها علامة التصويب.
+  * ![](../assets/fcs_cap_roll.png) تعويض ميلان المركبة: إذا كانت المركبة مائلة بسبب طبيعة الأرض، يقوم النظام بتصحيح التصويب تلقائيًا للحفاظ على دقة الإصابة.
 * When switching to the coaxial machine gun, the gun’s pitch will automatically raise to fire the machine gun at the center. The same will happen when switching to other types of munitions. To switch between main gun and coaxial MG use the switch weapon key **\(default: F\)**.
 * Although the desired mode of operation is for the weapon to be set automatically, the gunner has also the ability to dial manually. This will however not correct for aiming mismatches \(see below\).
 If the distance to the target is greater than physically achievable by the selected weapon, the HUD will display a red lettering of the current range setting or **^ ^ ^ ^** as the error indication.
