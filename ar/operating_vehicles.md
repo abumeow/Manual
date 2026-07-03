@@ -62,8 +62,8 @@
   - منظور الشخص الأول من قمرة القيادة
   - كاميرا المدفع، التي تتحكم في مدفع المروحية.
   - يتيح **وضع الإطلاق الموجَّه بالليزر (LG)** التصويب شبه اليدوي، حيث يمكنك النقر على الهدف ليتجه الصاروخ إليه تلقائيًا، ثم النقر مرة أخرى أثناء طيرانه لتحديث موقع الهدف إذا تحرك.
-  - **Laser-targeted fire mode** **\(LT\)** \(fire-and-forget\) locks the missile onto a laser target provided by ground troops or a scout helicopter. The laser targeted mode is the best choice if a spotter can designate the target. It allows minimal exposure of the helicopter. The laser guided mode allows the best tracking of moving targets. However if the target hasn’t been “lazed” correctly or badly, or simply for some reason the missile can’t see the target after launch like if a building gets in the way, the missile may miss.
-* Helicopter crews need to be in the same squad.
+  - يتيح **وضع الإطلاق الموجَّه إلى الليزر (LT)** (لا يحتاج إلى توجيه بعد الإطلاق) قفل الصاروخ على هدف محدد بالليزر بواسطة القوات البرية أو مروحية الاستطلاع. ويُعد هذا الوضع الخيار الأفضل عند وجود مراقب يستطيع تحديد الهدف بالليزر، لأنه يقلل من مدة تعرض المروحية لنيران العدو.أما وضع الإطلاق الموجَّه بالليزر (LG)، فيوفر أفضل قدرة على تتبع الأهداف المتحركة. ومع ذلك، إذا لم يُحدد الهدف بالليزر بصورة صحيحة، أو كان التحديد غير دقيق، أو تعذر على الصاروخ رؤية الهدف بعد الإطلاق، كأن يحجبه مبنى مثلًا، فقد يخطئ الصاروخ هدفه.
+* يجب أن يكون أفراد طاقم المروحية ضمن الفرقة نفسها.
 * Helicopters must return to the helipad and land to be **rearmed/repaired**. On Carriers you can only reload on the “ramp” of the carrier - off the runway, this doesn't include the lifts.
 * To successfully **drop supplies** from a transport helicopter the pilot needs to conduct the drop from an altitude under 30m / 100 feet by pressing the alternate fire key, otherwise the supply crate may break upon contact with the ground.
 * **Countermeasure flares** are limited and need to be rearmed when expended. Every time you deploy flare\(**X**\) one flare will be deployed.
