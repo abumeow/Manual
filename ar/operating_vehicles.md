@@ -114,13 +114,13 @@
 
 * تأتي معظم المركبات الحديثة بأحدث أنظمة التحكم في إطلاق النيران، حيث تكون مزودة بنظام آلي بالكامل، بالإضافة إلى محدد مدى ليزري يقيس المسافة إلى الهدف تلقائيًا. وعند تفعيله، ستظهر أيقونة الليزر على الشاشة للدلالة على أنه يعمل:![](../assets/fcs_cap_laser.png).
 * بعد توجيه علامة التصويب نحو الهدف، يمكن في المركبات المزوّدة بمحدد مدى ليزري قياس المسافة إلى الهدف بالضغط على مفتاح تبديل الكاميرا **(C افتراضيًا)**. بعد ذلك، يضبط النظام سبطانة السلاح تلقائيًا على الزاوية المناسبة، بحيث تصيب القذيفة النقطة التي تشير إليها علامة التصويب. 
-* في الزاوية السفلية اليمنى من شاشة العرض، ستظهر مسافة التصويب المضبوطة حاليًا، بالإضافة إلى الميزات المتوفرة في نظام التصويب الخاص بالمركبة
+* في الزاوية السفلية اليمنى من شاشة العرض، ستظهر مسافة التصويب المضبوطة حاليًا، بالإضافة إلى الميزات المتوفرة في نظام التصويب الخاص بالمركبة.
 
 {% figure "../assets/fcs_main.png" %}
-The set range and FCS capability icons being shown in the bottom right of the HUD.
+تُظهر الزاوية السفلية اليمنى من شاشة العرض مسافة التصويب الحالية، إلى جانب أيقونات توضح وظائف نظام التصويب المتوفرة في المركبة.
 {% endfigure %}
 
-* The icons in the gunner view on vehicles using an FCS show a number of icons in either white or grey scale. These icons each indicate a certain type of aiming correction the FCS will account for when setting the gun up correctly. The corrections account for the following aiming inaccuracies:
+* في المركبات المزوّدة بنظام التحكم في إطلاق النيران، تظهر في شاشة الرامي عدة أيقونات باللونين الأبيض أو الرمادي. وتشير كل أيقونة إلى نوع معين من تصحيحات التصويب التي يستطيع النظام تطبيقها عند ضبط السلاح تلقائيًا. وتشمل هذه التصحيحات العوامل التالية التي قد تؤثر في دقة الإصابة:
   * ![](../assets/fcs_cap_velocity.png) Speed compensation: Compensating for the vehicle’s own movement. Does NOT correct the lead on a moving enemy target vehicle.
   * ![](../assets/fcs_cap_height.png) Height compensation: Compensates for the difference in altitude between your vehicle and the target.
   * ![](../assets/fcs_cap_parallax.png) Parallax compensation:  Compensating the mismatch between gun position and gunner camera position.
