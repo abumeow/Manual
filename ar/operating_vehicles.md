@@ -97,10 +97,9 @@
 5. عندما تكون على بُعد حوالي 200 متر من المدرج، قم بخفض قوة الدفع (Throttle).
 6. بعد ملامسة الأرض، اضغط السهم إلى الخلف لتقليل السرعة. وتختلف طريقة تحكم كل طائرة عن الأخرى.
 
-## _Fire Control Systems_ {#fire-control-systems}
-Vehicles in Project Reality use an authentic ballistic system for vehicle projectiles. Depending on the vehicle several variations of Fire Control Systems \(FCS\) computers can be used by the gunner. In principle, the FCS can calculate required adjustments to fire at the target exactly where you want to. Not only does the firing solution consider the drop of the projectile due to gravity, it also includes friction slowing down projectiles. Further it can account for the offset between the operator camera and barrel, the height difference to the target, banking of the vehicle as well as speed of the vehicle. Just as their real life counterparts, not every vehicle will have the same capabilities for their FCS. This section will delve deeper into some of the use-cases of our FCS implementations. 
-
-### Ground Vehicles
+## أنظمة التحكم في إطلاق النيران {#fire-control-systems}
+تستخدم المركبات في Project Reality نظامًا واقعيًا لحساب مسار المقذوفات. ووفقًا لنوع المركبة، قد يمتلك الرامي أنواعًا مختلفة من أنظمة التحكم في إطلاق النيران (FCS)، وهو نظام إلكتروني يساعد على حساب كيفية توجيه السلاح لإصابة الهدف بدقة. بشكل عام، يساعد نظام FCS على حساب التصحيحات اللازمة لإصابة الهدف بدقة. فهو لا يحسب فقط هبوط المقذوف الناتج عن الجاذبية، بل يأخذ أيضًا في الاعتبار مقاومة الهواء التي تُبطئ المقذوف أثناء طيرانه. كما يمكنه تعويض الفرق بين موضع كاميرا الرامي وسبطانة السلاح، واختلاف الارتفاع بين المركبة والهدف، وميلان المركبة، وحتى سرعتها أثناء الحركة.وكما هو الحال في الواقع، لا تمتلك جميع المركبات القدرات نفسها في أنظمة التحكم في إطلاق النيران. وسيتناول هذا القسم بالتفصيل طرق استخدام أنظمة FCS المختلفة الموجودة في اللعبة.
+### المركبات البرية
 * In short, there are 3 types of FCS for ground vehicles:
   * Static sight: You have to rely on range markings in the sight.
   * Adjusting sight: The crosshair moves to show where to aim.
