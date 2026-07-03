@@ -52,8 +52,8 @@
 
 ## المروحيات {#helicopters}
 
-* Helicopters have a **warm-up time** of around 30 seconds. If too much thrust is generated while the rotor blades spin up, the pilot will lose control and crash. To start the helicopter you have to leave the throttle at idle for at least 30 seconds before trying to lift off.
-* Helicopter pilots can look in other directions while flying by pressing the 6, 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
+* تحتاج المروحيات إلى **فترة تهيئة** تستغرق نحو **30 ثانية**. فإذا زادت قوة الدفع قبل أن تصل شفرات المروحة إلى سرعتها التشغيلية، سيفقد الطيار السيطرة على المروحية وقد تتحطم. ولتشغيل المروحية، يجب إبقاء قوة الدفع عند وضع الخمول لمدة لا تقل عن 30 ثانية قبل محاولة الإقلاع.
+* يمكن لطياري المروحيات النظر في اتجاهات مختلفة أثناء الطيران باستخدام المفاتيح **6 و7 و8 و9**، كما يمكن ربط هذه المفاتيح بمفتاح **POV Hat Switch** في عصا التحكم، وهو مفتاح صغير متعدد الاتجاهات يُستخدم لتغيير زاوية النظر. وللعودة إلى النظر للأمام، اضغط على المفتاح **1** أو بدّل إلى أي سلاح آخر في المروحية.
 * The rudder controls are mostly effective at low speeds. At higher speeds you need to bank the helicopter to turn.
 * Players using **the pilot kit cannot occupy any of the passenger seats** of an aircraft. This is to stop players using the pilot kit as some kind of SF paratrooper assault kit because it has a parachute. If you have had to bail out of your aircraft and then receive a pickup from another aircraft, ensure you drop your pilot kit before entering the aircraft’s passenger seat otherwise you will be forced out of the helicopter.
 * The pilot of Heavy Attack Helicopters aka Gunships can fire the **unguided rockets** while the gunner controls the cannon and guided missiles.
