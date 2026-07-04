@@ -6,7 +6,7 @@
 
 2: إعادة عرض ثلاثية الأبعاد (3D): تتيح مشاهدة المعركة من خلال كاميرا داخل اللعبة يمكنك التحكم بها بحرية، وتُعرف باسم **Battle Recorder (BR)**، وتحمل الملفات الخاصة بها الامتداد **.bf2demo**.للحصول على ملفات إعادة العرض، يجب تنزيلها من الموقع الإلكتروني الخاص بالخادم الذي لعبت عليه. وإذا لم تعرف رابط الموقع، يمكنك طلبه عبر خادم Discord الخاص بذلك الخادم، كما تتوفر روابط جميع الخوادم في قناة **#server-hosts** على [خادم الديسكورد الرسمي لبرجوكيت ريالتي](https://discord.me/projectreality "PR:BF2 Official Discord")
 
-Some servers provide Tracker and BR files together in an easily accessible way providing map name, layer, gamemode and time. For those that don't, getting replays is a little bit more tricky.
+توفر بعض الخوادم ملفات Tracker وBattle Recorder بطريقة سهلة الوصول، مع عرض معلومات مثل اسم الخريطة، والطبقة (Layer)، ونمط اللعب، ووقت المباراة. أما في الخوادم التي لا توفر هذه الملفات بهذه الطريقة، فإن الحصول على ملفات إعادة العرض يكون أكثر صعوبة ويتطلب خطوات إضافية.
 
 ### Tracker {#tracker}
 You can easily find the desired recording as these files have the time, map, gamemode and layer included into their name. 
