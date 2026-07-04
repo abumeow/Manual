@@ -13,29 +13,29 @@
 * **اختياري**: ميكروفون (يوصى به بشدة للتواصل الصوتي)، وذراع تحكم (Joystick).
 
 _إذا كانت بطاقة الرسومات لديك بمستوى الأداء المذكور في الحد الأدنى من متطلبات التشغيل، فعطّل خيار Use Advanced Shaders من إعدادات الرسومات في مشغل Project Reality._
-## _Game Installation_ {#game-installation}
+## تثبيت اللعبة {#game-installation}
 
-With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install the current version of PR:BF2. 
+لم **يعد تثبيت لعبة Battlefield 2 مطلوبًا لتشغيل PR:BF2**، إذ أصبحت تعمل كلعبة مستقلة. وإذا كان لديك إصدار من PR:BF2 أقدم من الإصدار 1.3، فيجب إلغاء تثبيته قبل تثبيت الإصدار الحالي من PR:BF2. 
 
-You have to download the full PR:BF2 installer from our website. There won’t be a requirement to have Battlefield 2 installed.
+نزّل مُثبّت PR:BF2 الكامل من موقعنا. ولا تحتاج إلى تثبيت Battlefield 2، إذ تعمل PR:BF2 كلعبة مستقلة.
 
-[**Download the latest version**](http://www.realitymod.com/downloads)
+[**تنزيل أحدث إصدار**](http://www.realitymod.com/downloads)
 
-**1\) Download**
+**1\) تنزيل**
 
-We recommend you to downloaded the Torrent version, but this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full installation client. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files \(aproximately 13GB\), move on to step 2 after the application finishes the download.
+نوصي بتنزيل نسخة التورنت، **ولكنها ليست المُثبّت الكامل**. إذ ستحصل أولًا على ملف صغير بامتداد .torrent، ويجب فتحه باستخدام أحد برامج BitTorrent لتنزيل ملفات تثبيت اللعبة الكاملة. ونوصي باستخدام برنامج [qBittorrent](http://www.qbittorrent.org/download.php).بعد انتهاء برنامج التورنت من التنزيل، ستحصل على مجلد يحتوي على جميع ملفات التثبيت (بحجم يقارب 13 جيجابايت). وبعد اكتمال التنزيل، انتقل إلى الخطوة الثانية.
 
-**2\) Installation**
+**2\) التثبيت**
 
-The downloaded folder that you now have through either the manual Torrent download or through one of our mirrors has a _setup.exe_ file. Launch this one to start the installation process.
+يحتوي المجلد الذي نزّلته، سواءً من خلال التورنت أو من أحد روابط التنزيل المباشر (Mirrors)، على ملف _setup.exe_. شغّل هذا الملف لبدء عملية تثبيت اللعبة.
 
-A few more points:
+ملاحظات إضافية:
 
-* PR:BF2 cannot be installed in the same directory as Battlefield 2.
-* If you have BF2 installed you can continue to play it and other BF2 modifications as well. PR:BF2 does not interfere with them as long as PR:BF2 is installed in its own, separate directory.
-* PR:BF2 features **an auto-updater.** So once you have installed PR:BF2 you can use the updater to automatically update your game to the newest version when it is released.
-* PR:BF2 includes PR Mumble in its installation. So there is no need to download this separately.
-* If you don’t want to use Torrents you will find mirrors for direct HTTP downloads in the downloads section on our website.
+* إذا كانت Battlefield 2 مثبتة على جهازك، فلا تثبّت PR:BF2 في المجلد نفسه.
+* إذا كانت لديك Battlefield 2 مثبتة، فلا يزال بإمكانك لعبها ولعب التعديلات الأخرى الخاصة بها. ولن تتعارض PR:BF2 معها، بشرط تثبيتها في مجلد منفصل.
+* تتضمن PR:BF2 **أداة تحديث تلقائي**. لذلك، بعد تثبيت اللعبة، يمكنك استخدامها لتحديث PR:BF2 تلقائيًا إلى أحدث إصدار عند صدوره.
+* يتضمن تثبيت PR:BF2 برنامج PR Mumble، لذلك لا حاجة إلى تنزيله بشكل منفصل.
+* إذا كنت تفضل عدم استخدام التورنت، فيمكنك تنزيل اللعبة عبر روابط HTTP المباشرة المتوفرة في قسم التنزيلات على موقعنا.
 
 ## _Creating a PR Account_ {#creating-a-pr-account}
 
