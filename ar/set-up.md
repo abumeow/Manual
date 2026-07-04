@@ -88,7 +88,7 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 {% endfigure %}
 
 
-## _The PR Launcher_ {#the-pr-launcher}
+## _مشغل Project Reality_ {#the-pr-launcher}
 
 After installation a shortcut for Project Reality:BF2 will be provided on the desktop, double click on this icon to open the PR Launcher. 
 
