@@ -99,7 +99,7 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 تظهر جميع الخيارات الرئيسية في الجهة اليمنى.
 
 * <span dir="ltr">**Play**</span>:  يبدأ تشغيل اللعبة. وإذا ضغطت على السهم المتجه للأسفل الموجود بجانب الزر، فستتمكن من البحث عن التحديثات أو اختيار ملف شخصي آخر. وفي حال توفر تحديث، فسيظهر تلقائيًا عند الضغط على زر Play. وسيُنزَّل هذا التحديث ويُثبَّت تلقائيًا، مع عرض تقدم عملية التنزيل والتثبيت أثناء تنفيذها.
-* **Options:** In this menu you can edit your video, graphics, and audio settings. Also some other options are available as well as configuring PR Mumble keys. Options related to the keyboard layout can be found once you open the game.
+* **Options:** تتيح لك هذه القائمة تعديل إعدادات العرض والرسومات والصوت، بالإضافة إلى الوصول إلى خيارات أخرى، مثل إعداد مفاتيح PR Mumble. أما إعدادات تعيين أزرار لوحة المفاتيح، فتتوفر من داخل اللعبة بعد تشغيلها.
 * **Support:** This is handy for when you are running into issues. It offers many utilities such as clearing cached folders or giving you a detailed information display of your computer specifications. This comes in handy when contacting our support team. It also holds information on your PR Account as well as the option to recalculate your PR Account Level. 
 * **Credits:** Here you can see the entire PR:BF2 team who worked on this game.
 * **Donate:** A direct link to our online donation page. The Project Reality Team develops this modification completely free of charge for its community to download and play. If you would like to show your support, please consider [donating to our team](https://www.realitymod.com/forum/misc.php?do=donate).
