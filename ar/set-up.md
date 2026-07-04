@@ -72,19 +72,19 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 
 إذا كنت لا ترغب في إنشاء حساب Project Reality، فيمكنك اختيار اللعب دون اتصال بالإنترنت (Offline) من شاشة تسجيل الدخول الأولى، لكن لن تتمكن من اللعب عبر الإنترنت. 
 
-## _Creating a Profile_ {#creating-a-profile}
+## _إنشاء ملف شخصي_ {#creating-a-profile}
 
-You have one PR Account that is unique. However, you can create multiple profiles under this PR Account. Each profile has a unique in-game name as well as separate settings and controls saved on your computer. You can retrieve previously created profiles as well. Older profiles created after PR:BF2 v1.2 and before v1.6 can be retrieved as well by providing the profile name and password. 
+لكل لاعب حساب Project Reality واحد فقط، وهو حساب فريد. ومع ذلك، يمكنك إنشاء عدة ملفات شخصية ضمن هذا الحساب. ولكل ملف شخصي اسم فريد يظهر داخل اللعبة، كما يحتفظ بإعداداته وعناصر التحكم الخاصة به والمحفوظة على جهازك. ويمكنك أيضًا استعادة الملفات الشخصية التي أنشأتها سابقًا. كما يمكن استعادة الملفات الشخصية التي أُنشئت بعد إصدار PR:BF2 v1.2 وقبل الإصدار v1.6، وذلك بإدخال اسم الملف الشخصي وكلمة المرور الخاصة به. 
 
-You can access the profile settings by hovering over the PLAY button in the PR Launcher and choosing _Select Profile_ and then _Manage Profiles_. You have the option to create offline profiles as well. If you didn’t log in through your online PR Account, you can only make and use offline profiles. 
+يمكنك الوصول إلى إعدادات الملفات الشخصية بالوقوف بمؤشر الفأرة فوق زر PLAY في مشغل Project Reality، ثم اختيار _Select Profile_ ومن بعدها _Manage Profiles_. كما يمكنك إنشاء ملفات شخصية مخصصة للعب دون اتصال بالإنترنت (Offline). وإذا لم تسجل الدخول باستخدام حساب Project Reality، فلن تتمكن إلا من إنشاء الملفات الشخصية غير المتصلة واستخدامها.
 
 {% figure "../assets/creating_profile_5.png" %}
-Manage profiles page.
+صفحة إدارة الملفات الشخصية.
 {% endfigure %}
 
 
 {% figure "../assets/creating_profile_6.png" %}
-Creating profile page.
+صفحة إنشاء ملف شخصي.
 {% endfigure %}
 
 
