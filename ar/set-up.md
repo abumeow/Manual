@@ -57,20 +57,20 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 تأكد من ضبط إعداد _Game Details_ في Steam على عام (Public). 
 
 {% figure "../assets/creating_profile_3.png" %}
-Steam profile's configurations.
+إعدادات ملف تعريف Steam.
 {% endfigure %}
 
-**Your Steam profile does not have to be public while playing PR:BF2.** Only when calculating the PR Account level. This is done once automatically on the first login and afterwards only when manually calculating.  You can find our privacy-notice [here](https://hq.realitymod.com/account/privacy.html). If your account level is not high enough to play on most online servers you will be shown a warning on the main PR Launcher screen which looks like the image below.
+ليس من الضروري **أن يكون ملف تعريف Steam الخاص بك عامًا أثناء لعب PR:BF2**. إذ لا يلزم ذلك إلا عند احتساب مستوى حساب Project Reality (PR Account Level). ويُحتسب هذا المستوى تلقائيًا مرة واحدة عند أول تسجيل دخول، ثم لا يُعاد احتسابه إلا عند طلب ذلك يدويًا. ويمكنك الاطلاع على إشعار الخصوصية الخاص بنا [هنا](https://hq.realitymod.com/account/privacy.html).ذا لم يكن مستوى حسابك مرتفعًا بما يكفي للانضمام إلى معظم الخوادم عبر الإنترنت، فستظهر لك رسالة تحذير في الشاشة الرئيسية لمشغل Project Reality، كما هو موضح في الصورة أدناه.
 
 {% figure "../assets/creating_profile_4.png" %}
-Main Launcher page with account level warning.
+الصفحة الرئيسية لمشغل Project Reality مع تحذير مستوى الحساب.
 {% endfigure %}
 
-To recalculate your PR Account Level go to the **SUPPORT** menu and open the _Account_ tab. There you can find your unique PR Account ID as well as your current PR Account Level and a button to calculate it again. Your level can never become lower after calculation. You will always keep the highest level you have. 
+لإعادة احتساب مستوى حساب Project Reality، انتقل إلى قائمة **SUPPORT** ثم افتح تبويب _Account_. ستجد هناك معرّف حساب Project Reality (PR Account ID) الخاص بك، ومستوى حسابك الحالي (PR Account Level)، بالإضافة إلى زر لإعادة احتساب المستوى. لن ينخفض مستوى حسابك بعد إعادة الاحتساب، إذ ستحتفظ دائمًا بأعلى مستوى وصلت إليه. 
 
-Your PR Account Level will be higher by gathering XP for a few indicators. These are for example having no current Steam VAC bans, having games bought on the Steam store in your library and having playtime on said games. **Donations to the Project Reality team do not influence your PR Account Level.**
+يرتفع مستوى حساب Project Reality الخاص بك مع مرور الوقت من خلال اكتساب نقاط (XP) وفقًا لعدة مؤشرات. وتشمل هذه المؤشرات، على سبيل المثال، عدم وجود أي حظر VAC نشط على حساب Steam، وامتلاك ألعاب مشتراة من متجر Steam، وقضاء وقت في لعب تلك الألعاب. **ولا تؤثر التبرعات لفريق Project Reality في مستوى حسابك بأي شكل من الأشكال.**
 
-If you do not wish to create a PR Account to play online, you can choose to play offline only on the initial login screen. 
+إذا كنت لا ترغب في إنشاء حساب Project Reality، فيمكنك اختيار اللعب دون اتصال بالإنترنت (Offline) من شاشة تسجيل الدخول الأولى، لكن لن تتمكن من اللعب عبر الإنترنت. 
 
 ## _Creating a Profile_ {#creating-a-profile}
 
