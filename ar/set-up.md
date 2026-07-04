@@ -43,17 +43,18 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 عند تشغيل Project Reality: BF2 لأول مرة، ستظهر لك النافذة التالية:
 
 {% figure "../assets/creating_profile_1.png" %}
-Steam login prompt.
+نافذة تسجيل الدخول إلى Steam.
 {% endfigure %}
 
-Press the Steam sign-in button to open a webpage where you will need to login to Steam in order to proceed. You will be then asked by your web browser to allow the PR Launcher to login. Depending on your browser this will look similar to the images below. Press the button that allows you to proceed. Afterwards you can close the webpage. 
+ضغط على زر تسجيل الدخول عبر Steam لفتح صفحة ويب، ثم سجّل الدخول إلى حسابك على Steam للمتابعة. بعد ذلك، سيطلب منك متصفح الويب السماح لمشغل Project Reality (PR Launcher) بتسجيل الدخول باستخدام حساب Steam. وقد تختلف طريقة ظهور هذه الرسالة باختلاف المتصفح، لكنها ستكون مشابهة للصور الموضحة أدناه. ضغط على الزر الذي يسمح بمتابعة العملية، ثم يمكنك إغلاق صفحة الويب. 
 
 {% figure "../assets/creating_profile_2.png" %}
-Web browsers prompts.
+رسائل التأكيد في متصفحات الويب.
 {% endfigure %}
 
-Your PR Account will be assigned a PR Account Level. This level determines how much your account is deemed legitimate and not a throwaway account. Server admins have the option to choose which minimum level is required to play on their server. In order to determine your PR Account Level, your Steam account will need to be made partially public. You can do this in [the Privacy Settings of Steam](https://steamcommunity.com/my/edit/settings). 
-Please make sure the _game details_ settings are set to be public. 
+سيُمنح حساب Project Reality الخاص بك مستوى حساب (PR Account Level). ويُستخدم هذا المستوى لتقييم مدى موثوقية حسابك والتأكد من أنه ليس حسابًا مؤقتًا. ويمكن لمديري الخوادم تحديد الحد الأدنى لمستوى الحساب المطلوب للانضمام إلى خوادمهم. ولتحديد مستوى حسابك، يجب أن تكون بعض معلومات حساب Steam الخاص بك متاحة للعامة. ويمكنك تغيير ذلك من خلال [إعدادات الخصوصية في Steam](https://steamcommunity.com/my/edit/settings).
+
+تأكد من ضبط إعداد _Game Details_ في Steam على عام (Public). 
 
 {% figure "../assets/creating_profile_3.png" %}
 Steam profile's configurations.
