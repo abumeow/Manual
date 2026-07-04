@@ -37,7 +37,7 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 * يتضمن تثبيت PR:BF2 برنامج PR Mumble، لذلك لا حاجة إلى تنزيله بشكل منفصل.
 * إذا كنت تفضل عدم استخدام التورنت، فيمكنك تنزيل اللعبة عبر روابط HTTP المباشرة المتوفرة في قسم التنزيلات على موقعنا.
 
-## _Creating a PR Account_ {#creating-a-pr-account}
+## _إنشاء حساب Project Reality_ {#creating-a-pr-account}
 
 Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts \(before PR:BF2 v1.2\) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
 When you launch Project Reality:BF2 for the first time you will be shown the following window:
