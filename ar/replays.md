@@ -1,7 +1,7 @@
 #  التتبع وإعادة عرض المعركة - Tracker and Battle Recorder
 
-In PR:BF2 there are two kinds of replays: 
-1. 2D, a top down overview of the whole battlefield \(called **Tracker**, with **.prdemo** extension\).
+يوجد في Project Reality: Battlefield 2 نوعان من إعادة عرض المعارك: 
+1.إعادة عرض ثنائية الأبعاد (2D): تعرض ساحة المعركة بالكامل من منظور علوي، وتُعرف باسم **Tracker**، وتحمل الملفات الخاصة بها الامتداد **.prdemo**.
 2. 3D, a controllable in-game camera \(**Battle Recorder** \(**BR**\), with **.bf2demo** extension\). You need to download them from a server's website. You can ask for a link on the server's Discord \(links are available in the **#server-hosts** channel on the [official Project Reality Discord Server](https://discord.me/projectreality "PR:BF2 Official Discord")\).
 
 Some servers provide Tracker and BR files together in an easily accessible way providing map name, layer, gamemode and time. For those that don't, getting replays is a little bit more tricky.
