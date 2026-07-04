@@ -115,17 +115,19 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 * **Options:** يمكنك من هنا ضبط إعدادات الصوت وتعيين أزرار التحكم. أما إعدادات العرض والرسومات، فيجب تعديلها من خلال مشغل Project Reality.
 * **Exit:** اضغط على هذا الزر لإغلاق اللعبة والعودة إلى نظام Windows.
 
-## _PR Mumble_                                                                                {#pr-mumble}
+## _برنامج PR Mumble_                                                                                {#pr-mumble}
 
-In game, Mumble is the program which we use to communicate to each other in PR:BF2, which replaces BF2 vanilla’s Voice-Over-IP \(VOIP\) system. The main unique feature of PR Mumble is that its primary method of communication is transmitted within 3D space, which is directional and proximity based. This is called Local. What this means is that all players on your team can talk to each other if they are nearby, and you can hear in what direction they are speaking from, similarly you can judge how far away they are, just like in real life.
+داخل اللعبة، يُستخدم برنامج PR Mumble للتواصل الصوتي بين اللاعبين في Project Reality: BF2، وهو يحل محل نظام المحادثة الصوتية عبر الإنترنت (Voice-over-IP أو VOIP) الموجود في Battlefield 2 الأصلية. وتتمثل أبرز ميزاته في أن التواصل الصوتي يتم داخل بيئة ثلاثية الأبعاد، حيث يعتمد على اتجاه الصوت وقرب اللاعبين من بعضهم. ويُعرف هذا النمط باسم "Local" (المحادثة المحلية). وهذا يعني أن جميع لاعبي فريقك يمكنهم التحدث مع بعضهم إذا كانوا قريبين من بعضهم، كما يمكنك معرفة الاتجاه الذي يأتي منه صوت المتحدث وتقدير مدى بُعده عنك، تمامًا كما يحدث في الحياة الواقعية
 
-After joining a squad you gain access to that squad’s Radio Net, which allows you to transmit to other players in your squad no matter where you are on the map. Squad leaders also have access to an additional Radio Net that allows them to communicate directly to the commander, globally to all other squad leaders, and directly to an individual squad leader. When using a radio net, a transmission cue will be heard when activating and deactivating the radio \(these short cues can be activated or disabled in the launcher audio options\). The default keys for transmitting over mumble are as follows:
+بعد الانضمام إلى فرقة، ستتمكن من استخدام شبكة الاتصال الخاصة بالفرقة، والتي تتيح لك التحدث مع جميع أفراد فرقتك مهما كان موقعك على الخريطة. كما يمكن لقادة الفرق استخدام شبكة اتصال إضافية، تتيح لهم التواصل مباشرة مع القائد العام، أو مع جميع قادة الفرق الآخرين، أو مع قائد فرقة معين. وعند استخدام إحدى شبكات الاتصال، ستسمع نغمة قصيرة عند بدء الإرسال وأخرى عند إنهائه (يمكن تفعيل هذه النغمات أو تعطيلها من إعدادات الصوت في مشغل Project Reality).
 
-* **Local speech \(V or H\):** you talk to players in the 3D radius space around you.
-* **Squad Radio \(B or Num 0\):** you talk to your squad, no matter where you are.
-* **Squad Leader to all other squad leaders radio \(\*\):** you talk to all squad leaders at the same time. This radio net is also available to the commander to use with the same shortcut.
-* **Squad Leader to specific squad leader radio \(Num 1-Num 9\):** you talk to one specific squad leader in your team. These channels on the net are also available to the commander to use with the same shortcut.
-* **Squad leader to Commander Radio \(numpad /\):** you talk to the commander in private.
+فيما يلي مفاتيح الإرسال الافتراضية في PR Mumble:
+
+* <span dir="ltr">**Local speech \(V or H\)**</span>: تتيح لك التحدث مع اللاعبين القريبين منك فقط.
+* **Squad Radio \(B or Num 0\):** تتيح لك التواصل مع أفراد فرقتك أينما كنت على الخريطة.
+* **راديو قائد الفرقة إلى جميع قادة الفرق \(\*\):** تتيح لك التحدث مع جميع قادة الفرق في الوقت نفسه. وهذه الشبكة متاحة أيضًا للقائد العام، ويمكنه استخدامها بالاختصار نفسه.
+* **راديو قائد الفرقة إلى قائد فرقة محدد \(Num 1-Num 9\):** تتيح لك التحدث مع قائد فرقة محدد في فريقك. كما يستطيع القائد العام استخدام هذه القنوات بالاختصارات نفسها.
+* **راديو قائد الفرقة إلى القائد العام \(numpad /\):** .تتيح لك التواصل مع القائد العام بشكل خاص.
 
 PR Mumble comes installed together with PR:BF2. It runs alongside the game installation and does all client side tasks automatically for you such as starting and connecting you to the right mumble-server. Players have the choice to configure their communication settings to their satisfaction just like the previous version. This includes input and output devices, volumes and the keyboard shortcuts. The two most important keys are default: Local channel \(H\) and squad radio net \(Numpad 0\). 
 
