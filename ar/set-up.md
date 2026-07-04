@@ -107,13 +107,13 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 
 تعرض القائمة الرئيسية للمشغل أيضًا شريطًا إخباريًا في الأسفل، مميزًا بالألوان الأزرق أو الأحمر أو الأصفر، يتضمن إعلانات عن الفعاليات القادمة، ومستجدات تطوير Project Reality، ومدونات المطورين. كما يمكنك العثور على روابط حساباتنا على وسائل التواصل الاجتماعي في الزاوية العلوية اليسرى. 
 
-## _In-Game Menu Navigation_ {#in-game-menu-navigation}
+## _التنقل داخل قوائم اللعبة_ {#in-game-menu-navigation}
 
-* **Co-operative:** Allows you to play PR:BF2 with computer controlled AI soldiers on both of the teams. This mode is very useful for getting to know the game mechanics and equipment before joining competitive online battles.
-* **Multiplayer:** The main mode of play in Project Reality. Here you will find intense battles with up to 100 human players.
-* **Replays:** This menu gives you access to replays using Battlerecorder.
-* **Options:** Here you can configure the audio options as well as the keyboard layout. Video options have to be changed in the PR Launcher.
-* **Exit:** Use this button to exit the game and return to Windows.
+* <span dir="ltr">**Co-operative**</span>: يتيح لك هذا النمط لعب PR:BF2 مع جنود يتحكم بهم الذكاء الاصطناعي في كلا الفريقين. ويُعد هذا النمط مفيدًا للتعرّف على آليات اللعب والمعدات قبل خوض المعارك التنافسية عبر الإنترنت.
+* **Multiplayer:** نمط اللعب الرئيسي في Project Reality، حيث ستخوض معارك حماسية يشارك فيها ما يصل إلى 100 لاعب حقيقي.
+* **Replays:** تتيح لك هذه القائمة مشاهدة الإعادات المسجلة باستخدام Battle Recorder.
+* **Options:** يمكنك من هنا ضبط إعدادات الصوت وتعيين أزرار التحكم. أما إعدادات العرض والرسومات، فيجب تعديلها من خلال مشغل Project Reality.
+* **Exit:** اضغط على هذا الزر لإغلاق اللعبة والعودة إلى نظام Windows.
 
 ## _PR Mumble_                                                                                {#pr-mumble}
 
