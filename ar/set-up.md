@@ -8,11 +8,11 @@
 * **مساحة التخزين**: يتطلب 14 جيجابايت من المساحة الخالية، ويُوصى بتثبيت اللعبة على قرص **SSD**.
 * **بطاقة الرسومات**: يتطلب بطاقة رسومات من فئة AMD Radeon HD 6000 أو Intel Iris Pro 6200 أو NVIDIA GTX 550 Ti أو ما يعادلها.
 ويُوصى ببطاقة رسومات من فئة AMD Radeon Vega 6 أو Intel Xe G4 أو AMD Radeon RX 550 أو NVIDIA GT 1030 أو ما يعادلها. وإذا كانت بطاقة الرسومات منفصلة (Dedicated GPU)، فيجب أن تحتوي على ذاكرة فيديو (VRAM) بسعة لا تقل عن 1 جيجابايت.
-* **Sound:** DirectX 9 compatible sound device. Dedicated sound card with EAX support recommended for best experience.
-* **Software:** .NET Framework 4.7.2.
-* **Optional:** Microphone \(strongly recommended for voice communication\), Joystick.
+* **الصوت**: يتطلب جهاز صوت متوافقًا مع DirectX 9. ولأفضل تجربة، يُوصى باستخدام بطاقة صوت منفصلة تدعم تقنية EAX.
+* **البرامج المطلوبة**: تثبيت .NET Framework 4.7.2.
+* **اختياري**: ميكروفون (يوصى به بشدة للتواصل الصوتي)، وذراع تحكم (Joystick).
 
-_*For GPU on that level of performance disable 'Use Advanced Shaders' in the PR Launcher's graphics options._
+_إذا كانت بطاقة الرسومات لديك بمستوى الأداء المذكور في الحد الأدنى من متطلبات التشغيل، فعطّل خيار Use Advanced Shaders من إعدادات الرسومات في مشغل Project Reality._
 ## _Game Installation_ {#game-installation}
 
 With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install the current version of PR:BF2. 
