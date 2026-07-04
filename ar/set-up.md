@@ -129,25 +129,26 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 * **راديو قائد الفرقة إلى قائد فرقة محدد \(Num 1-Num 9\):** تتيح لك التحدث مع قائد فرقة محدد في فريقك. كما يستطيع القائد العام استخدام هذه القنوات بالاختصارات نفسها.
 * **راديو قائد الفرقة إلى القائد العام \(numpad /\):** .تتيح لك التواصل مع القائد العام بشكل خاص.
 
-PR Mumble comes installed together with PR:BF2. It runs alongside the game installation and does all client side tasks automatically for you such as starting and connecting you to the right mumble-server. Players have the choice to configure their communication settings to their satisfaction just like the previous version. This includes input and output devices, volumes and the keyboard shortcuts. The two most important keys are default: Local channel \(H\) and squad radio net \(Numpad 0\). 
+يأتي PR Mumble مرفقًا مع Project Reality: BF2. وعند تشغيل اللعبة، يعمل تلقائيًا ويتصل بخادم Mumble المناسب، لذلك لن تحتاج إلى تشغيله أو إعداده يدويًا.جهازك، مثل تشغيل البرنامج والاتصال بخادم Mumble المناسب.
+ويمكن للاعبين ضبط إعدادات التواصل بما يناسبهم، كما كان الحال في الإصدارات السابقة. ويشمل ذلك اختيار أجهزة الإدخال والإخراج، وضبط مستويات الصوت، وتعيين اختصارات لوحة المفاتيح. وأهم اختصارين افتراضيًا هما: قناة Local (H)، وشبكة اتصال الفرقة Squad Radio (Numpad 0).
 
-These shortcuts can be edited in the PR Launcher via the options menu, then PR Mumble tab. It’s recommended that you also check the main settings panel directly within the mumble application to make sure it’s all correctly set-up. To do this click the *Launch* button to open the mumble interface. Then locate *Configure* at the top, after that Settings and a panel will appear where you can configure your input and output audio devices and alter more keyboard shortcuts and other settings.
+يمكنك تعديل هذه الاختصارات من خلال مشغل Project Reality، وذلك بالانتقال إلى قائمة Options ثم خيار PR Mumble. ويُنصح أيضًا بمراجعة لوحة الإعدادات الرئيسية داخل برنامج Mumble للتأكد من ضبط كل شيء بالشكل الصحيح. وللقيام بذلك، اضغط على زر **Launch** لفتح واجهة Mumble. ثم اختر **Configure** من الشريط العلوي، وبعدها **Settings**، لتظهر نافذة يمكنك من خلالها تحديد أجهزة إدخال وإخراج الصوت، وتعديل المزيد من اختصارات لوحة المفاتيح، بالإضافة إلى إعدادات أخرى
 
-You can also launch PR Mumble when you are in a server by locating the PR Dogtags in the system tray next to the Windows system clock and left click on the icon to open its interface.
+يمكنك أيضًا فتح PR Mumble أثناء وجودك داخل أحد الخوادم، وذلك بالنقر على أيقونة PR Dogtags الموجودة بجوار ساعة نظام Windows في شريط المهام. وتظهر هذه الأيقونة عند تشغيل اللعبة.
 
 {% figure "../assets/mumblelogo.png" %}
-Mumble's icon in Windows' system tray.
+أيقونة Mumble بجوار ساعة نظام Windows.
 {% endfigure %}
 
 
-PR Mumble also integrates with BF2’s HUD display. During the game you will see the names of players talking, each colour depicting over which channel they are transmitting, which is displayed in the lower left hand corner of your screen. In the lower right hand corner mumble also indicates over what channel you are transmitting with a different colour depending on the channel you are using. It also shows whether your microphone or speakers are muted, and if there’s linking issues with the mumble client.
+يتكامل PR Mumble أيضًا مع واجهة Battlefield 2 أثناء اللعب. فعند تحدث اللاعبين، ستظهر أسماؤهم في الزاوية السفلية اليسرى من الشاشة، ويشير لون كل اسم إلى قناة الاتصال التي يتحدث عبرها. أما في الزاوية السفلية اليمنى، فيعرض PR Mumble القناة التي تستخدمها للإرسال، مع تغيير اللون بحسب القناة المستخدمة. كما يوضح ما إذا كان الميكروفون أو السماعات في وضع كتم الصوت، وينبهك أيضًا في حال وجود مشكلة في اتصال برنامج Mumble.
 
 {% figure "../assets/mumble_1.png" %}
-Example of player's talking in game.
+مثال على ظهور أسماء اللاعبين أثناء التحدث داخل اللعبة.
 {% endfigure %}
 
 {% figure "../assets/mumble_2.png" %}
-Mumble's icons status: Transmitting, Muted Speakers, Muted and Disconnected, respectively.
+أيقونات حالة Mumble: الإرسال، وكتم السماعات، وكتم الصوت مع انقطاع الاتصال، على الترتيب.
 {% endfigure %}
 
 
