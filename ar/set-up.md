@@ -7,7 +7,7 @@
 * **الذاكرة**: يتطلب 6 جيجابايت، ويُوصى بـ 8 جيجابايت.
 * **مساحة التخزين**: يتطلب 14 جيجابايت من المساحة الخالية، ويُوصى بتثبيت اللعبة على قرص **SSD**.
 * **بطاقة الرسومات**: يتطلب بطاقة رسومات من فئة AMD Radeon HD 6000 أو Intel Iris Pro 6200 أو NVIDIA GTX 550 Ti أو ما يعادلها.
-Recommended Vega 6, Intel Xe G4, AMD Radeon RX 550, Nvidia GT 1030 or similar. For a dedicated GPU, 1GB VRAM required.
+ويُوصى ببطاقة رسومات من فئة AMD Radeon Vega 6 أو Intel Xe G4 أو AMD Radeon RX 550 أو NVIDIA GT 1030 أو ما يعادلها. وإذا كانت بطاقة الرسومات منفصلة (Dedicated GPU)، فيجب أن تحتوي على ذاكرة فيديو (VRAM) بسعة لا تقل عن 1 جيجابايت.
 * **Sound:** DirectX 9 compatible sound device. Dedicated sound card with EAX support recommended for best experience.
 * **Software:** .NET Framework 4.7.2.
 * **Optional:** Microphone \(strongly recommended for voice communication\), Joystick.
