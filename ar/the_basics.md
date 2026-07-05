@@ -2,11 +2,11 @@
 
 أهم ما يجب عليك فعله هو **الانضمام إلى فرقة**. فبعض الخوادم تُلزم اللاعبين بذلك، وقد تطرد اللاعبين الذين يلعبون بمفردهم بعد انتهاء فترة التحذير. تصبح اللعبة أكثر متعة عند اللعب ضمن فرقة متعاونة. إذا احتجت إلى المساعدة، فما عليك سوى **سؤال أفراد فرقتك** عما ينبغي عليك فعله. ويُفضّل استخدام Mumble، فهو وسيلة التواصل الصوتي الأكثر استخدامًا في Project Reality. كما أن لعب Project Reality: BF2 دون ميكروفون لن يمنحك التجربة الكاملة، لذا فإن اقتناء واحد يُعد استثمارًا جيدًا. وإذا لم يرد عليك أحد، فجرّب الانضمام إلى فرقة أخرى أو استخدم الدردشة العامة. ستجد الكثير من أفراد المجتمع المستعدين لمساعدة اللاعبين الجدد وإرشادهم.
 
-We expect you to have some basic understanding of BF2 when it comes to navigating the in-game menus such as scoreboard, map and kit selection. To get acquainted with PR's interface you can start up an offline match by clicking on Co-operative or Multiplayer, then Create Local, click on Add Map and then Deploy.
+وللتعرف على واجهة Project Reality، يمكنك بدء مباراة دون اتصال بالإنترنت عبر الضغط على Co-operative أو Multiplayer، ثم Create Local، وبعدها Add Map، وأخيرًا Deploy.
 
-## _Kit selection & spawning_ {#kit-selection-and-spawning}
+## _اختيار الكت والظهور_ {#kit-selection-and-spawning}
 
-* When you begin playing, it is recommended that you only spawn as a rifleman with a sight of your choice. This way you can better learn the fundamental basics of gameplay.
+* عند بدء اللعب، يُنصح بأن تظهر في ساحة المعركة باستخدام كت Rifleman مع المنظار الذي تفضله، فهذه أفضل طريقة لتعلّم أساسيات اللعب وإتقانها.
 * After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
 * Kits that are specialized and more difficult to operate are generally limited and can only be obtained if certain conditions are met within a squad. These reserved kits are of limited supply to the team and you should always ask before requesting one.
 * Kits can be requested from the main spawn menu \(default: **Caps Lock**\), a supply crate \([see Logistics](the_basics.md#logistics)\) or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
