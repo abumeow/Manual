@@ -38,14 +38,14 @@
 
 * تتضمن بعض الخرائط **نقاط ظهور بالمظلات (Parachute Spawns)**، لمحاكاة عمليات الإنزال الجوي. وتظهر هذه النقاط على الخريطة المصغرة على هيئة علامات ظهور متحركة. اختر إحداها، وستظهر في ساحة المعركة بمظلة تُفتح تلقائيًا.
 
-## _In-game interface \(HUD\)_ {#hud}
-* In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
-  * The reason why the player is not issued the kit being requested.
-  * The reason why the deployable asset that the player requested could not be built.
-  * That the player must exit the vehicle or the current seat to avoid punishment.
-* PR also uses **HQ Notifications** which is displayed large orange type at the top left of the screen. These notifications give you updates on the current objectives, mission progress and other essential messages.
-* Direct messages from server administrators and some types of game notifications will appear in orange text near the center of the screen. Some of these are just informative while others, especially messages from server administrators, may require your attention.
-* If you missed a message or announcement, like the result of a map vote, you can view them again by holding Tab, right clicking once to activate your cursor and left clicking the **Notifications tab**.
+## _واجهة اللعبة_ {#hud}
+* في واجهة اللعبة في PR:BF2، يتلقى اللاعبون **رسائل خاصة بكل لاعب**، ولا تظهر إلا لصاحبها. وتُستخدم هذه الرسائل لإبلاغ اللاعب بمختلف الأحداث التي تقع أثناء اللعب، مثل:
+  * سبب عدم حصول اللاعب على الكت المطلوبة.
+  * سبب تعذر بناء المنشأة التي طلب اللاعب إنشاءها.
+* ضرورة مغادرة المركبة أو المقعد الحالي لتجنب العقوبة.
+* تستخدم PR أيضًا إشعارات القيادة **(HQ Notifications)**، والتي تظهر بخط برتقالي كبير في أعلى يسار الشاشة. وتُطلعك هذه الإشعارات على الأهداف الحالية، وتقدم المهمة، وغيرها من الرسائل المهمة.
+* تظهر الرسائل المباشرة من مسؤولي الخادم، وبعض إشعارات اللعبة، بخط برتقالي بالقرب من منتصف الشاشة. بعض هذه الرسائل معلوماتية فقط، بينما قد تتطلب رسائل أخرى، وخاصةً رسائل مسؤولي الخادم، انتباهك.
+* إذا فاتتك رسالة أو إعلان، مثل نتيجة التصويت على الخريطة، فيمكنك عرضها مجددًا بالضغط مطولًا على مفتاح Tab، ثم النقر بزر الفأرة الأيمن مرة واحدة لتفعيل المؤشر، وبعدها النقر بزر الفأرة الأيسر على **نافذة الإشعارات (Notifications)**.
 * Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see [the weapons chapter](weapons_and_equipment.md#buis)\).
 * **Most 3D icons have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
 * **No health status bar** indicating your vital status. \([see Health Management](the_basics.md#health-management)\)
