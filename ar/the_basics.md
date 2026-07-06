@@ -65,48 +65,48 @@
 * ا توجد **رسائل القتل** (باستثناء النيران الصديقة). وحتى لوحة النتائج لا تعرض من هو حي أو ميت في الفريق المعادي. وإذا أردت التأكد من مقتل أحد، فعليك البحث عن جثته.
 * لا تظهر الخريطة المصغرة بشكل دائم في واجهة اللعبة إلا لطياري المركبات الجوية وبعض سائقي المركبات المدرعة. أما الخريطة الكاملة، فهي متاحة لجميع اللاعبين.
 *يمكن الاطلاع على **اسم الخريطة الحالية والطبقة (Layer)** في أعلى الشاشة عند فتح الخريطة مع قائمة الفرقة/الكت.
-* Using the little arrow \(left of timer\) will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they spawn with a delay or respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
+* يؤدي الضغط على السهم الصغير (إلى يسار المؤقت) إلى عرض **نافذة معلومات موارد الخريطة**. تعرض هذه النافذة جميع المركبات الموجودة على الخريطة، بالإضافة إلى مؤقتات إعادة ظهور مركبات فريقك، وما إذا كانت تصبح متاحة بعد مرور مدة محددة من بداية الجولة أو لا تعود للظهور إلا بعد تدميره. أما قذائف الهاون أو المدفعية خارج الخريطة (Off-Map Mortar / Artillery)، والمعروفة أيضًا باسم هجمات المنطقة (Area Attacks)، فعادةً ما يكون استخدامها محدودًا بثلاث أو أربع مرات فقط، ولا يمكن استخدامها إلا بعد فترات انتظار طويلة نسبيًا
 
 {% figure "../assets/assets.png" %}
-Current map asset info overlay.
+نافذة معلومات موارد الخريطة الحالية.
 {% endfigure %}
 
-* **The remaining tickets** of your team and the time left can only be viewed from the squad screen. The enemy tickets are not displayed.
-* **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will become blurred, like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
+* لا يمكن الاطلاع على عدد **التذاكر المتبقية** لفريقك والوقت المتبقي إلا من خلال شاشة الفرقة. أما تذاكر الفريق المعادي فلا يتم عرضها.
+* يحدث تأثير **الكبت النيراني** عندما تتعرض لإطلاق نار قريب من البنادق، أو الأسلحة الثقيلة، أو لانفجارات قريبة. عندها تصبح الرؤية ضبابية ويبدو وكأن الشاشة تهتز. يحاكي هذا التأثير انخفاض قدرتك على الرد بإطلاق نار دقيق وفعّال أثناء تعرضك لكبت نيراني من العدو.
 
 {% figure "../assets/suppression.png" %}
-Normal view of the game (left) and suppresion effect in action (right).
+الرؤية الطبيعية (يسار) وتأثير الكبت النيراني (يمين).
 {% endfigure %}
-* Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, indicated by blinking, sprinting is no longer possible, jumping however still is.
-* When a player is **dead** \(commonly reffered to as dead-dead\), he will not revivable and black screen with an appropriate message will be displayed instead of seeing their surroundings.
-* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. When aiming down sights, a **deviation indicator** will appear above your compass, showing your weapon’s current level of deviation. The wider the indicator, the higher the spread; if the two dots collapse into one, your weapon has reached low deviation, but it might take one or two more moments for the weapon to reach its maximum accuracy still. 
-* **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted from within a vehicle.
-* Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
-* **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
+* يوجد شريط التحمل في أسفل يسار الشاشة. يؤدي الركض والقفز إلى استهلاك التحمل، بينما يؤدي التوقف عن الركض أو القفز إلى استعادته تدريجيًا. وعندما ينخفض مستوى التحمل إلى 50٪ أو أقل، ويبدأ الشريط بالوميض، لن تتمكن من الركض، بينما سيظل بإمكانك القفز.
+*عندما يكون اللاعب في حالة **الموت النهائي (Dead-Dead)**، لن يكون بالإمكان إنعاشه، وستظهر له شاشة سوداء مع رسالة مناسبة بدلًا من رؤية محيطه.
+* تزداد درجة تشتت سلاحك وتقل دقته كلما زادت حركتك. وعند التصويب، يظهر مؤشر التشتت أعلى البوصلة، موضحًا مستوى تشتت السلاح الحالي. وكلما اتسع المؤشر، زاد انتشار الطلقات. أما إذا اندمجت النقطتان وأصبحتا نقطة واحدة، فهذا يعني أن تشتت السلاح أصبح منخفضًا، لكنه قد يحتاج إلى لحظة أو لحظتين إضافيتين ليصل إلى أقصى دقة ممكنة. 
+* أُزيل **نظام رصد الأهداف التلقائي** بالنسبة للمشاة. أما المركبات الجوية، فلا يزال بالإمكان رصدها أثناء التواجد داخل مركبة.
+* يمكن لقادة الفرق إرسال **بلاغ رصد** إلى القائد العام، أو استخدام جهاز اللاسلكي لوضع علامة يدويًا على خريطة الفريق. أما الجنود العاديون، فلا يمكنهم سوى إطلاق تحذير عام عند رصد وحدات معادية.
+* تحتوي **عجلة أوامر اللاسلكي (الزر الافتراضي: Q وT)** على عناصر تؤدي وظيفتين مختلفتين. فعند النقر بزر الفأرة الأيسر على **"RELOADING / CEASE FIRE"**، تُبلغ اللاعبين القريبين منك بأنك تعيد تلقيم سلاحك، بينما يؤدي النقر بزر الفأرة الأيمن إلى مطالبتهم بوقف إطلاق النار. وينطبق المبدأ نفسه على **"GO, GO, GO / FALL BACK"** وغيرها من عناصر القائمة المشابهة.
 
 {% figure "../assets/commorose.png" %}
-Commo-rose when pressing Q.
+عجلة أوامر اللاسلكي عند الضغط على Q.
 {% endfigure %}
-* You can **orientate yourself** on the map using the direction element that you will find around your player icon.
-* Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
+* يمكنك **تحديد اتجاهك** على الخريطة باستخدام مؤشر الاتجاه المحيط بأيقونة لاعبك.
+* عند تجهيز بعض الأسلحة أو المعدات، تُستبدل **عجلة أوامر اللاسلكي الرئيسية (Q)** بقائمة صغيرة تعتمد على السياق. فعند حمل الضمادة الميدانية أو حقيبة المسعف، يمكنك استخدام أمر "FIRST AID" لإبلاغ اللاعبين القريبين بأنك ستقوم بعلاجهم. وتستخدم العديد من المعدات، وكذلك بعض الأسلحة، هذا النوع من القوائم المعتمدة على السياق.
 
-## _Health Management_ {#health-management}
+## _إدارة الصحة_ {#health-management}
 
-Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be visual cues to warn you such as a periodically darkening screen with a tunnel vision effect. At less than 25% HP, you’ll hear coughs and heavy breathing, at 10 HP you’ll lose your stamina and cannot regain it unless you heal above at least those 10 HP. Whilst bleeding, the tunnel vision and screen darkening effect will get stronger and stronger, limiting your combat effectiveness further and further.
+تتميز الأسلحة في Project Reality بقدرتها العالية على القتل، لذا فمن المرجح أن تُصاب بطلق ناري وتبدأ بالنزيف عاجلًا أم آجلًا. ورغم أن واجهة اللعبة لا تحتوي على شريط للحالة الصحية، فإنها تنبهك بصريًا عند انخفاض صحتك إلى أقل من 75٪، وذلك من خلال تعتيم الشاشة بشكل دوري مع ظهور تأثير الرؤية النفقية. وعندما تنخفض صحتك إلى أقل من 25 نقطة حياة (HP)، ستسمع سعالًا وتنفسًا متعبًا، أما عند وصولها إلى 10 نقاط حياة فستفقد قدرتك على استعادة التحمل، ولن تتمكن من استعادته حتى تتجاوز صحتك 10 نقاط حياة مرة أخرى. وأثناء النزيف، يزداد تأثير الرؤية النفقية وتعتيم الشاشة تدريجيًا، مما يقلل من قدرتك على القتال بفعالية.
 
-### Healing
+### العلاج
 
-Once in bleed status, you’ll continue to lose HP over time until you eventually pass out. To prevent this you have two ways of healing yourself. Almost every kit includes a **field dressing** which is selected by pressing the appropriate key or cycling through your weapon selection. Pressing fire throws it onto the ground. Within a second or two, the field dressing will disappear and the player standing next to it will regain 25% of their total health. The patch itself does not stop bleeding however. Should your HP, after applying the patch, still be below 75%, you’ll continue to bleed and have merely bought yourself some time, you thus have to apply more field dressings if available, scavenge hostile bodies if necessary.
+بمجرد أن تبدأ بالنزيف، ستستمر في فقدان نقاط الحياة تدريجيًا حتى تفقد الوعي في النهاية. ولمنع ذلك، توجد طريقتان لعلاج نفسك.تحتوي معظم الكتات على **ضمادة ميدانية (Field Dressing)**، ويمكن تجهيزها بالضغط على المفتاح المخصص لها أو بالتنقل بين الأسلحة والمعدات. وعند الضغط على زر الإطلاق، تُلقى الضمادة على الأرض. وبعد ثانية أو ثانيتين تختفي، ويستعيد اللاعب الواقف بجوارها 25٪ من إجمالي نقاط حياته. لكن الضمادة الميدانية لا توقف النزيف. فإذا بقيت صحتك بعد استخدامها أقل من 75٪، فستواصل النزيف، وكل ما فعلته هو كسب بعض الوقت. لذلك ستحتاج إلى استخدام المزيد من الضمادات الميدانية إن كانت متوفرة، أو البحث في جثث الأعداء للحصول على ضمادات إضافية عند الضرورة.
 
-The vast majority of kits are only issued a single field dressing for emergency use, players heavily rely on their squad’s or team’s medics to heal back to full HP. The Medic and the Collaborator roles are the only ones issued a first aid kit for treating friendlies without the need for field dressings. When injured, either use mumble or the commo rose \(“Q”\)  call option “Medic ” to get your medic’s attention. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be in touching distance to the injured player and then hold down the left mouse button while looking towards them. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
+تُزوَّد الغالبية العظمى من الكتات بضمادة ميدانية (Field Dressing) واحدة فقط للاستخدام في حالات الطوارئ، لذلك يعتمد اللاعبون بشكل كبير على مسعفي فرقتهم أو فريقهم لاستعادة صحتهم بالكامل. ويُعد المسعف (Medic) والمتعاون (Collaborator) الدورين الوحيدين المزوّدين بحقيبة إسعافات أولية (First Aid Kit) لعلاج اللاعبين المصابين دون الحاجة إلى استخدام الضمادات الميدانية. عند إصابتك، استخدم الدردشة الصوتية أو خيار **"Medic"** في عجلة أوامر اللاسلكي **(Q)** لجذب انتباه المسعف. لكن، وعلى عكس BF2، لا يستطيع المسعف مجرد إلقاء حقيبة الإسعافات الأولية على الأرض، بل يجب أن يحملها بيديه، وأن يكون على مسافة قريبة جدًا من اللاعب المصاب، ثم يضغط باستمرار على زر الفأرة الأيسر أثناء توجيه نظره نحوه. ويشير سماع صوت تمزيق الضمادات إلى أن عملية العلاج قد بدأت. ويستغرق العلاج الكامل نحو 15 ثانية، لذا احرص على القيام بذلك في مكان آمن.
 
 {% figure "../assets/fielddressing.png", "../assets/kit.png", "../assets/epipen.png" %}
-Field dressing, first aid kit & epipen.
+الضمادة الميدانية (Field Dressing)، حقيبة الإسعافات الأولية (First Aid Kit)، وقلم الإبينفرين (EpiPen).
 {% endfigure %}
 
-### Reviving
+### الإنعاش
 
-If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(**H**\) or **squad’s Radio Net \(Numpad 0\).** You can also click **Call Medic** to become temporarily marked on the map of every medic in the team.
+إذا لم تتمكن من تلقي العلاج في الوقت المناسب، فستفقد الوعي، وستظهر على الشاشة رسالة تفيد بأنك أُصبت إصابةً حرجة (wounded). وهذا لا يعني أنك ميت! إذ يستطيع المسعف إنعاشك خلال مدة تصل إلى 5 دقائق، مما يوفر على فريقك تذاكر ثمينة. يمكنك استخدام الدردشة الصوتية لتوجيه المسعف إلى موقعك، وذلك عبر **القناة المحلية (H)** أو **شبكة اتصال الفرقة (Numpad 0)**. كما يمكنك الضغط على **Call Medic** لتحديد موقعك مؤقتًا على خريطة جميع المسعفين في الفريق.
 
 In order to revive you, the medic will select the **epipen** from their weapon selection \(default: **5**\) and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious player's torso by clicking and holding down left mouse button. The player will then become conscious but will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there.
 
