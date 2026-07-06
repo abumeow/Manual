@@ -120,20 +120,20 @@
 
 ### إعادة الظهور
 
-A player's respawn time is at least 45 seconds and at most 60 seconds plus temporary penalties. Time spent while waiting for a medic is subtracted from that time. Once a player dies he has to wait at least 5 seconds before spawning. These actions influence the respawn time:
+يتراوح وقت إعادة ظهور اللاعب بين 45 و60 ثانية، وقد يزداد بسبب عقوبات مؤقتة. ويُخصم من هذا الوقت مقدار ما قضيته في انتظار المسعف. وبعد الموت، يجب أن تنتظر 5 ثوانٍ على الأقل قبل أن تتمكن من الظهور من جديد. وتؤثر الإجراءات التالية في مدة إعادة الظهور:
 
-* Player death: **+3s**
-* Capturing CP or destroying objective: **-3s**
-* Doing a defensive action: **-1s**
-* Squad built forward outpost: **-10s**
+* موت اللاعب: **+3 ثوانٍ**
+* السيطرة على نقطة سيطرة أو تدمير هدف: **-3 ثوانٍ**
+* القيام بإجراء دفاعي: **-1 ثانية**
+* بناء الفرقة لقاعدة عمليات أمامية (FOB): **-10 ثوانٍ**
 
-A temporary spawn time penalty which only affects the next time you die \(building up to 5 minutes\) is added by these actions:
+تضيف الإجراءات التالية عقوبة مؤقتة إلى وقت إعادة الظهور، ولا تؤثر إلا في إعادة ظهورك التالية (بحد أقصى 5 دقائق):
 
-* Teamkill: **15 seconds per teamkill**
-* Suicide: **15 seconds**
-* Civilian getting captured: **90 seconds**
-* Civilian killed violating ROE: **120 seconds per civilian**
-* Friendly weapons cache destroyed: **300 seconds**
+* قتل أحد أفراد الفريق: **+15 ثانية لكل حالة قتل صديق**
+* الانتحار: **+15 ثانية**
+* تعرّض المدني للأسر: **+90 ثانية**
+* قتل مدني بمخالفة لقواعد الاشتباك: **+120 ثانية لكل مدني**
+* تدمير مخبأ أسلحة تابع لفريقك: **+300 ثانية**
 
 To select a spawn point, bring up the spawn map\(default: **Enter**\) and select an applicable location marked by a white dot. Once you’re happy with that spawn location, you must click the **Spawn** button in the lower right corner of the map screen to re-spawn into the game.
 
