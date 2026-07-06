@@ -114,11 +114,11 @@
 
 {{ "فيديو تعليمي – الإنعاش" | youtube("auBgiI8IxWE") }}
 
-### Death
+### الموت
 
-Sometimes players will not be revivable, such as when a player is killed in a vehicle. If you were recently revived and you become critically wounded again within 2 minutes, you will not be revivable the second time. If you are wounded and you are not revived within 5 minutes you will also go dead. If there is no chance of being revived, click **Give up** on the spawn screen. Now the screen will show that you are dead and you can prepare to respawn. The time you spent waiting to click give up counts toward your total respawn time.
+في بعض الحالات، لا يكون إنعاش اللاعب ممكنًا، مثلًا إذا قُتل داخل مركبة. كذلك، إذا أُنعشت ثم أُصبت إصابةً حرجة مرة أخرى خلال دقيقتين، فلن يكون بالإمكان إنعاشك للمرة الثانية. وإذا بقيت في حالة الإصابة الحرجة دون إنعاش لمدة 5 دقائق، فستُعتبر ميتًا نهائيًا. إذا لم يعد هناك أي أمل في إنعاشك، فاضغط على زر **"Give Up"** في شاشة الظهور. عندها ستظهر رسالة تفيد بأنك ميت، ويمكنك الاستعداد للظهور من جديد. ويُحتسب الوقت الذي قضيته في انتظار الضغط على Give Up ضمن إجمالي وقت إعادة الظهور.
 
-### Re-spawning
+### إعادة الظهور
 
 A player's respawn time is at least 45 seconds and at most 60 seconds plus temporary penalties. Time spent while waiting for a medic is subtracted from that time. Once a player dies he has to wait at least 5 seconds before spawning. These actions influence the respawn time:
 
