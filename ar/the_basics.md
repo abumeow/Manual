@@ -135,20 +135,20 @@
 * قتل مدني بمخالفة لقواعد الاشتباك: **+120 ثانية لكل مدني**
 * تدمير مخبأ أسلحة تابع لفريقك: **+300 ثانية**
 
-To select a spawn point, bring up the spawn map\(default: **Enter**\) and select an applicable location marked by a white dot. Once you’re happy with that spawn location, you must click the **Spawn** button in the lower right corner of the map screen to re-spawn into the game.
+لاختيار نقطة ظهور، افتح خريطة الظهور **(الزر الافتراضي: Enter)**، ثم اختر موقعًا متاحًا مميزًا بنقطة بيضاء. وبعد اختيار نقطة الظهور المناسبة، اضغط على زر **Spawn** الموجود في الزاوية السفلية اليمنى من شاشة الخريطة للعودة إلى اللعبة.
 
-## _Logistics_ {#logistics}
+## _الإمداد_ {#logistics}
 
-Whether you're running low on ammunition and need to rearm, want a new kit or simply want to build deployables: logistics keep your team alive.
+سواء كنت بحاجة إلى إعادة تذخير أسلحتك، أو ترغب في الحصول على كت جديد، أو تريد بناء منشآت قابلة للبناء، فإن الإمداد هو ما يحافظ على جاهزية فريقك واستمراره في القتال.
 
-### Ammunition {#ammunition}
+### الذخيرة {#ammunition}
 
-To be able to rearm yourself, you'll need to get closer to one of several sources of ammo, which will then automatically re-fill your weapons. These sources are:
+لإعادة تذخير أسلحتك، عليك الاقتراب من أحد مصادر الذخيرة، حيث ستُعاد تعبئة أسلحتك تلقائيًا. وتشمل هذه المصادر:
 
-* **Ammo bags** - These can be found in the rifleman, militant, warrior and some insurgent kits and must be thrown \(left click\) on the ground, for you or other soldiers be able to rearm, or on deployables \(tow, aa, mortars\) to rearm them. 
-* **Ammo boxes** - Dropped by light transport vehicles, APCs and IFVs.
-* **Light/Heavy supply crates** - Dropped primarily by transport or supply trucks \(also known as Logis\) and transport helicopters. For more information see [Supply Crates](the_basics.md#crates).
-* **Weapons caches** - Available only for insurgents.
+* **حقائب الذخيرة (Ammo Bags)** - تتوفر مع كتات Rifleman وMilitant وWarrior وبعض كتات المتمردين. ويجب إلقاؤها على الأرض (بالنقر بزر الفأرة الأيسر) حتى تتمكن أنت أو زملاؤك من إعادة تذخير أسلحتكم، كما يمكن إلقاؤها بجوار المنشآت القابلة للبناء (TOW وAA والهاونات) لإعادة تذخيرها. 
+* **صناديق الذخيرة (Ammo Boxes)** - تُسقطها مركبات النقل الخفيفة، وناقلات الجنود المدرعة (APCs)، ومركبات القتال المدرعة للمشاة (IFVs).
+* **صناديق الإمداد الخفيفة/الثقيلة (Light/Heavy Supply Crates)** - تُسقطها بشكل أساسي شاحنات النقل أو الإمداد (المعروفة أيضًا باسم Logis) ومروحيات النقل. ولمزيد من المعلومات، راجع قسم [صناديق الإمداد](the_basics.md#crates).
+* **مخابئ الأسلحة (Weapons Caches)** - متاحة لفريق المتمردين فقط.
 * **Vehicle depot** - Present in all main bases, it also heals you.
 
 {% figure "../assets/ammobag.png", "../assets/supplycrate.png", "../assets/inscrate.png", "../assets/cacahe.png", "../assets/depott.png" %}
