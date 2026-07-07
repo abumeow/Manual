@@ -6,25 +6,25 @@
 A مدني.
 {% endfigure %}
 
-Civilians are bound by particular **rules of engagement** \(ROE\), explained [below](the_civilian.md#roe). Coalition forces cannot fire against civilians that are outside the rules of engagement, risking heavy penalizations. Instead they must **arrest** them or wait untill they're a legit target.
+يخضع المدنيون لقواعد الاشتباك، والتي سيتم شرحها [لاحقًا](the_civilian.md#roe). ولا يجوز لقوات التحالف استهداف المدنيين إلا في الحالات التي تسمح بها قواعد الاشتباك، وإلا تعرضوا لعقوبات كبيرة. وبدلًا من ذلك، يجب عليهم اعتقالهم أو الانتظار حتى يصبحوا هدفًا يحق الاشتباك معه
 
-In order for a player to arrest a civilian, it must use the restrainers or the Shotgun with a buckshot round. Civilians that decide to commit suicide are also counted as arrested.
+لاعتقال مدني، يجب على اللاعب استخدام القيود البلاستيكية أو بندقية الخرطوش المحملة بذخيرة الكرات المعدنية. كما يُحتسب المدني الذي ينتحر على أنه تم اعتقاله.
 
-If you shoot a civilian outside the ROE, you will face several penalties:
+إذا أطلقت النار على مدني خارج نطاق قواعد الاشتباك، فستتعرض للعقوبات التالية:
 
-* After your next death you will respawn 120 seconds later, per civilian shot \(stacks up to 5 minutes additional delay\)
-* You will not be able to request any kits for 10 minutes
-* Your score is reduced to 0 and the kill will not be listed on the scoreboard
-* Your team loses 10 intelligence points
+* عد موتك التالي، ستتأخر إعادة ظهورك لمدة 120 ثانية عن كل مدني أطلقت النار عليه (وتتراكم العقوبة حتى حد أقصى يبلغ 5 دقائق إضافية)
+* لن تتمكن من طلب أي كت لمدة 10 دقائق
+* سيتم تصفير نقاطك، ولن تُسجل عملية القتل في لوحة النتائج
+* سيخسر فريقك 10 نقاط استخباراتة
 
-In the other hand, shooting a civilian inside the ROE will cause:
+أما إذا أطلقت النار على مدني وفقًا لقواعد الاشتباك، فستكون النتائج كالتالي:
 
-* The civilian to have an additional 120 seconds in the respawn time
-* Your team gains 10 intelligence points
+* ستزداد مدة إعادة ظهور المدني بمقدار 120 ثانية
+* سيكسب فريقك 10 نقاط استخبارات
 
-Running over civilians in a vehicle or shooting those climbing on ropes will also result in a penalty if done outside of the ROE.
+كما أن دهس المدنيين بالمركبات، أو إطلاق النار عليهم أثناء تسلقهم الحبال، سيؤدي أيضًا إلى فرض عقوبة إذا تم ذلك خارج نطاق قواعد الاشتباك.
 
-## _Rules Of Engagement_ \(ROE\) {#roe}
+## _قواعد الاشتباك_ {#roe}
 
 A civilian is considered inside the ROE and therefore can be killed if any of these conditions are met:
 
