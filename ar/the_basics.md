@@ -246,109 +246,108 @@
 إعادة التذخير ليست فورية، بل تستغرق بضع ثوانٍ، ويعتمد ذلك على مصدر الذخيرة وكمية الذخيرة التي تحتاج إلى إعادة تذخيرها. وإذا لم تتم إعادة تذخير أسلحتك، فتأكد أيضًا من أن صندوق الإمداد الخفيف/الثقيل تابع لفريقك، إذ لا يمكن إعادة التذخير من صناديق الإمداد التابعة للعدو.
 {% endnote %}
 
-### Supply Crates{#crates}
+### صناديق الإمداد{#crates}
 
-There are two types of supply crates in PR:BF2 - Light Supply Crate and Heavy Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate, meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the 
-[Deployable Structures chapter.](the_squad_leader.md#deployable-structures)
+يوجد نوعان من صناديق الإمداد في PR:BF2: صندوق الإمداد الخفيف وصندوق الإمداد الثقيل. وكلاهما يتيح إعادة تذخير أسلحة اللاعبين وبناء المنشآت القابلة للبناء، إلا أن صندوق الإمداد الخفيف يعادل نصف صندوق الإمداد الثقيل. وهذا يعني أنك ستحتاج إلى صندوقي إمداد خفيفين في الحالات التي يكفي فيها صندوق إمداد ثقيل واحد. ولمعرفة المزيد عن المنشآت القابلة للبناء، راجع قسم
+[المنشآت القابلة للبناء.](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/largecrate.png", "../assets/smallcrate.png" %}
-Here you can see the heavy supply crate on the left and the light version on the right.
+على اليسار صندوق الإمداد الثقيل، وعلى اليمين صندوق الإمداد الخفيف.
 {% endfigure %}
 
-Just like rearming, requesting kits from crates will deplete the supply crates. Each kit will cost 250 points, with light crates having 1500 \(6x kits\) and heavy ones 3000 \(12x kits\).
+وكما هو الحال مع إعادة التذخير، فإن طلب كتات جديدة من صناديق الإمداد يستهلك من مخزون نقاط الإمداد فيها. وتبلغ تكلفة كل كت 250 نقطة إمداد، ويحتوي صندوق الإمداد الخفيف على 1500 نقطة إمداد (تكفي لـ 6 كتات)، بينما يحتوي صندوق الإمداد الثقيل على 3000 نقطة إمداد (تكفي لـ 12 كتًا).
 
 {% note %}
-Requesting kits from a crate that does not have enough points will still grant you the kit but the crate will be destroyed in the process.
+إذا طلبت كتًا من صندوق إمداد لا يحتوي على عددٍ كافٍ من نقاط الإمداد، فستحصل على الكت رغم ذلك، لكن سيتدمر صندوق الإمداد نتيجةً لذلك.
 {% endnote %}
 
-Light Supply Crate can be transported by:
+يمكن نقل صندوق الإمداد الخفيف بواسطة:
 
-* Light Helicopters such as the Huey, Lynx and Zhi-9B \(One Crate\)
-* Transport trucks \(One Crate\)
+* المروحيات الخفيفة، مثل Huey وLynx وZhi-9B (صندوق إمداد واحد)
+* شاحنات النقل (صندوق إمداد واحد)
 
-While, Heavy Supply Crate can be transported by:
+أما صندوق الإمداد الثقيل، فيمكن نقله بواسطة:
 
-* Medium Lift Helicopters such as the Black Hawk, Mi-17 and NH-90 \(One Crate\)
-* Heavy Lift Helicopters such as the Chinook, Zhi-8KA and MV-22 \(Two Crates\)
-* Logistic trucks \(Two Crates\)
+* المروحيات متوسطة الحمولة، مثل Black Hawk وMi-17 وNH-90 (صندوق إمداد واحد)
+* المروحيات الثقيلة، مثل Chinook وZhi-8KA وMV-22 (صندوقا إمداد)
+* شاحنات الإمداد (صندوقا إمداد)
+يوضح العلم الموجود أعلى صندوق الإمداد الجهة المالكة له.
 
-The ownership of the crate is depicted by the flag display on top of the crate.
+### حزمة الإصلاح
 
-### Repair Drop
-
-Logistic trucks also have the ability to drop a repair station. They are necessary for field repairs to vehicles that are heavily damaged and cannot move.
+تستطيع شاحنات الإمداد أيضًا إسقاط محطة إصلاح ميدانية. وتُستخدم لإجراء إصلاحات ميدانية للمركبات التي تعرضت لأضرار جسيمة ولم تعد قادرة على الحركة.
 
 {% figure "../assets/reapir.png" %}
-Repair drop.
+محطة الإصلاح الميدانية.
 {% endfigure %}
 
-## _Score_ {#score}
+## _نظام النقاط_ {#score}
 
-A player's score is divided in teamwork points and individual points. It speaks for itself that doing team related activities \(building, driving vehicles, defending/attacking flags\) contribute to the first and individual actions \(killing players\) contribute to your personal score.
+تنقسم نقاط اللاعب إلى نقاط العمل الجماعي ونقاط فردية. فالأعمال التي تخدم الفريق، مثل البناء، وقيادة المركبات، والدفاع عن الأعلام أو مهاجمتها، تساهم في نقاط العمل الجماعي، بينما تساهم الإنجازات الفردية، مثل القضاء على لاعبين معادين، في نقاطك الفردية.
 
-The total score of a player can never go below 0 but the teamwork score can become negative. There are also score multipliers for when you are for example in a vehicle or a squad leader. Here are some other score additions and deductions. These are not all but give you a good idea on what you can achieve.
+لا يمكن أن ينخفض إجمالي نقاط اللاعب إلى أقل من الصفر، لكن نقاط العمل الجماعي قد تصبح سالبة. كما توجد مضاعفات للنقاط في بعض الحالات، مثل وجودك داخل مركبة أو عند اللعب بدور قائد فرقة. وفيما يلي بعض الأمثلة على النقاط التي تُضاف أو تُخصم. هذه القائمة لا تشمل جميع الحالات، لكنها تمنحك فكرة جيدة عن كيفية احتساب النقاط.
 
-* Capturing a civilian: **+100**
-* Killing a civilian \(outside ROE\): **-100**
-* Destroying your own objective: **-100**
-* Destroying enemy objective: **+150**
+* أسر مدني: **+100**
+* قتل مدني خارج قواعد الاشتباك: **-100**
+* تدمير هدف تابع لفريقك: **-100**
+* تدمير هدف العدو: **+150**
 
-## _Mortars_ {#mortars}
+## _الهاونات_ {#mortars}
+الهاون هو موقع إطلاق ثابت يوفر دعمًا ناريًا غير مباشر على مسافات بعيدة. تستطيع جميع الفصائل استخدام قذائف شديدة الانفجار، بينما يمكن للقوات النظامية والميليشيا أيضًا استخدام القذائف الجوية الانفجار (Air-Burst) والقذائف الدخانية. ولا يمكن بناء الهاونات في الخرائط التي يقل حجمها عن 2 كم.
 
-A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km.
+* **قذائف شديدة الانفجار (HE)** (اضغط **1** للاختيار): وهي أكثر أنواع قذائف الهاون شيوعًا، وتسبب أكبر قدر من الضرر عند إصابة الهدف مباشرةً. وتُعد مثالية لاستهداف المركبات المدرعة الخفيفة والتمركزات.
+* **قذائف الانفجار الجوي (Airburst)** (اضغط **2** للاختيار): تنفجر في الهواء قبل وصولها إلى الأرض، مما يمنحها نطاق تأثير أوسع، لكنها تُلحق ضررًا أقل بشكل عام. وتُعد مثالية لاستهداف المشاة داخل المباني أو في التضاريس غير المستوية.
 
-* **High Explosive \(HE\)** \(press **1** to select\): Most common type of mortar round. Does the most damage directly to the target. Ideal for light armored targets and emplacements.
-* **Airburst** \(press **2** to select\): Explodes in the air above the ground. Covers a larger area but does less damage overall. Ideal for engaging infantry inside buildings and on uneven terrain.
-
-Once mortars are constructed they need to be armed with ammo bags, provided by the rifleman or similar class. Then you can use the mortar’s calculator \(press **3** to select\). The distance to the target and the difference in elevation can be entered into the calculator by clicking on the numbers in the **“Range”** and **“Height”** fields. To get the range make sure your SL’s marker is on the target, then open the map and you’ll find the range listed under the map. Once you are done just click the **“Calculate”** button to display the required barrel elevation. The elevation can be adjusted with the W and S keys while the deflection is changed using the A and D keys. When both values are set, just select the required rounds and fire. The Airburst and Impact rounds share the same ammunition pool.
+بعد بناء الهاون، يجب تزويده بالذخيرة باستخدام حقيبة ذخيرة، يوفرها جندي الـ Rifleman أو أي كت مماثل. بعد ذلك يمكنك استخدام حاسبة الهاون (اضغط **3** للاختيار). يمكن إدخال المسافة إلى الهدف وفرق الارتفاع في الحاسبة بالنقر على الأرقام الموجودة في حقلي **"Range"** و**"Height"**. لمعرفة المسافة، تأكد أولًا من أن قائد الفرقة وضع علامة الهدف في الموقع المطلوب، ثم افتح الخريطة، وستجد المسافة معروضة أسفلها. بعد إدخال القيم، اضغط على زر **"Calculate"** لعرض زاوية ارتفاع السبطانة المطلوبة. يمكن ضبط زاوية الارتفاع باستخدام المفتاحين W وS، بينما يُضبط الانحراف الجانبي (Deflection) باستخدام المفتاحين A وD.
+بعد ضبط القيمتين، اختر نوع القذيفة المطلوب ثم أطلق النار. تستخدم قذائف الانفجار الجوي (Airburst) وقذائف الانفجار عند الارتطام (Impact) مخزون الذخيرة نفسه.  
 
 {% figure "../assets/mortars.png" %}
-The mortar calculator interface.
+واجهة حاسبة الهاون.
 {% endfigure %}
 
-## _Destroying Bridges_ {#destroying-bridges}
+## _تدمير الجسور_ {#destroying-bridges}
 
-Just like BF2, in PR you can destroy bridges. This is done with high capacity C4 or similar calibre explosives, carried by engineers or sapppers. 
+كما هو الحال في BF2، يمكنك في PR تدمير الجسور. ويتم ذلك باستخدام عبوات C4 عالية السعة أو متفجرات أخرى ذات قدرة تدميرية مماثلة، يحملها المهندسون (Engineers) أو خبراء المتفجرات (Sappers). 
 
-When bridges get damaged particles and sound of falling sand can be observed when close by. Damaged further, segments of the bridge will collapse and neither infantry nor vehicles will be able to cross it. 
+عند تعرض الجسر للضرر، يمكن ملاحظة تصاعد الغبار وسماع صوت تساقط الركام عند الاقتراب منه. ومع ازدياد الضرر، تنهار أجزاء من الجسر، وعندها لن يتمكن لا المشاة ولا المركبات من عبوره. 
 
-Unlike BF2, in PR once a bridge is destroyed, it can't be repaired. Therefore you should only destroy bridges that will change enemy team's routes in your favour - whether this is for delaying future movement or funneling enemy troops into a different part of the map.
+على عكس BF2، لا يمكن إصلاح الجسر بعد تدميره في PR. لذلك لا ينبغي تدمير الجسور إلا إذا كان ذلك سيغير مسارات تحرك الفريق المعادي لصالح فريقك، سواءً لتأخير تحركاته المستقبلية أو لإجباره على سلوك مسار آخر عبر جزء مختلف من الخريطة.
 
 {% figure "../assets/bridge_built_and_destroyed_small.png" %}
-A bridge before and after being destroyed.
+جسر قبل تدميره وبعده.
 {% endfigure %}
 
-On some destroyed bridges you can deploy a CSB, which will help you cross it \(covered in the [next chapteer](the_basics.md#close-support-bridges)\).
+في بعض الجسور المدمرة، يمكن نشر جسر دعم قريب (CSB) لعبورها. وسيتم شرح ذلك في [الفصل التالي](the_basics.md#close-support-bridges)\).
 
-## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
+## _# جسور الدعم القريب (CSB)_ {#close-support-bridges}
 
-When in need to cross small rivers or damaged bridges, conventional forces can deploy CSBs using their logistic trucks - which carries two of them. In Project Reality CSBs can only be used to fill the gaps of destroyed bridges and in predetermined locations identified by \(obvious\) small heaps of sand positioned across a natural obstacle, like a river.
+عند الحاجة إلى عبور الأنهار الصغيرة أو الجسور المدمرة، يمكن للقوات النظامية نشر جسور الدعم القريب باستخدام شاحنات الإمداد، التي تحمل جسرين منها. في Project Reality، لا يمكن استخدام جسور الدعم القريب إلا لسد الفجوات في الجسور المدمرة، وفي مواقع محددة مسبقًا، يمكن التعرف عليها من خلال أكوام رمل صغيرة وواضحة موزعة على جانبي العائق الطبيعي، مثل النهر.
 
 {% note %}
-CSBs are very narrow, so drive carefully when crossing them.
+جسور الدعم القريب ضيقة جدًا، لذا قد بحذر عند عبورها بالمركبات.
 {% endnote %}
 
-The deployment process for CSBs is very simple:
-1. Drive a logistics truck to the position where the CSB will be deployed.
-2. Position the front or back of the truck as close as possible to the deployment position.
-3. Select the CSB as active equipment of the truck.
-4. Press alternate fire to deploy the bridge.
+عملية نشر جسر الدعم القريب بسيطة جدًا:
+1. قد شاحنة الإمداد إلى الموقع الذي سيتم فيه نشر الجسر.
+2. ضع مقدمة الشاحنة أو مؤخرتها بالقرب قدر الإمكان من نقطة النشر.
+3. اختر CSB من قائمة معدات الشاحنة.
+4. اضغط زر الإطلاق البديل لنشر الجسر.
 
-{{ "Video Tutorial - CSB Deployment" | youtube("Vn66KbNrVJA") }}
+{{ "فيديو توضيحي: كيفية نشر جسر الدعم القريب (CSB)" | youtube("Vn66KbNrVJA") }}
 
 {% figure "../assets/csb.png" %}
-CSB from truck being deployed.
+جسر الدعم القريب أثناء نشره من شاحنة الإمداد.
 {% endfigure %}
 
-In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat until its finish.
+في بعض الحالات، قد تحتاج إلى نشر أكثر من جسر دعم قريب لتغطية المسافة بالكامل. وفي هذه الحالة، قد شاحنة الإمداد إلى نهاية الجزء غير المكتمل من الجسر، ثم انشر جسر دعم قريب آخر، وكرر العملية حتى يكتمل الجسر.
 
-You may encounter different scenarios when it comes to bridges and CSB deployment, shown in the next image:
-1. This large concrete bridge is destroayble and a CSB can be deployed on it \(marked by a single bridge icon\).
-2. This small rock bridge is destroyable but CSBs can't be deployed on it \(no bridge marking\).
-3. And lastly at this location a double CSB can be deployed \(double bridge marking\).
+قد تواجه عدة حالات مختلفة عند التعامل مع الجسور ونشر جسور الدعم القريب، كما هو موضح في الصورة التالية:
+1. هذا الجسر الخرساني الكبير قابل للتدمير، ويمكن نشر جسر دعم قريب عليه (ويُشار إليه بأيقونة جسر واحدة).
+2. هذا الجسر الصخري الصغير قابل للتدمير، لكن لا يمكن نشر جسور الدعم القريب عليه (لا توجد أيقونة جسر).
+3. في هذا الموقع يمكن نشر جسرَي دعم قريب (ويُشار إليه بأيقونتي جسر).
 
 {% figure "../assets/bridges2.png" %}
-Different types of bridges (icons are not to scale).
+أنواع مختلفة من الجسور (الأيقونات ليست بالمقياس الحقيقي).
 {% endfigure %}
 
 ## _Battlefield Navigation_ {#battlefield-navigation}
