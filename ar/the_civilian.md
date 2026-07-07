@@ -26,37 +26,36 @@ A مدني.
 
 ## _قواعد الاشتباك_ {#roe}
 
-A civilian is considered inside the ROE and therefore can be killed if any of these conditions are met:
+يُعتبر المدني هدفًا يُسمح بالاشتباك معه إذا تحقق أحد الشروط التالية:
 
-* Spawned...
-* Have picked up a kit with a weapon...
-* Used a vehicle...
-* Used an epipen...
+* إعادة الظهور (Spawn)...
+* التقط كت تحتوي على سلاح...
+* استخدم مركبة...
+* استخدم حقنة الإنعاش...
 
-...less than 2 minutes prior to the engagement. Or he must have an armed insurgent next to him, within 5m horizontally or 1.5m vertically.
+...كما يُعتبر أيضًا هدفًا يُسمح بالاشتباك معه إذا كان بجواره متمرد مسلح، على مسافة لا تتجاوز 5 أمتار، وألا يزيد فرق الارتفاع بينهما على 1.5 متر.
 
-## _Becoming a civilian_
+## _التحول إلى مدني_
 
-For you to become a civilian you must first either spawn as a non-armed soldier or to simply drop your kit \(Press **T** and then **Right Click** on the "REQUEST / DROP KIT" option\). Secondly, as mentioned in the previous section, you must wait 2 minutes after you spawn or dropping your kit and stay away from other Insurgents who are outside the ROE.
+لكي تصبح مدنيًا، يجب أولًا أن تعيد الظهور كجندي غير مسلح أو تتخلى عن الكت (اضغط **T** ثم انقر بزر الفأرة الأيمن على خيار REQUEST / DROP KIT). بعد ذلك، وكما ذُكر في القسم السابق، يجب أن تنتظر لمدة دقيقتين بعد إعادة ظهورك أو بعد التخلي عن الكت، مع الابتعاد عن المتمردين الذين لا تنطبق عليهم قواعد الاشتباك.
 
-## _Civilian vehicles_ {#civilian-vehicles}
+## _المركبات المدنية_ {#civilian-vehicles}
 
-Non armed-vehicles, including ammo techies and "Fake Garys" \(term used for dump or semi-trailer trucks\), must not be destroyed by Coalition forces.
+لا يجوز لقوات التحالف تدمير المركبات غير المسلحة، بما في ذلك شاحنات الذخيرة، و**الشاحنات القلابة** وشاحنات الجر ذات المقطورة.
 
-A vehicle is considered civilian and therefor cannot be destroyed if:
+تُعتبر المركبة مدنية، ولا يجوز تدميرها، إذا تحقق أحد الشروط التالية:
 
-* Is empty
-* Does not have a gun
-* Was last used more than 1 minute ago
-* Has no enemies nearby \(3 meters\)
+* أن تكون خالية من الركاب
+* ألا تكون مزودة بسلاح
+* أن يكون قد مضى أكثر من دقيقة على آخر مرة استُخدمت فيها
+* لا يوجد أي من قوات العدو على بُعد 3 أمتار منها
+سيؤدي عدم الالتزام بقواعد الاشتباك هذه إلى العقوبات التالية:
 
-Failing to comply to this ROE will result:
-
-* Loss of 5 intel points for the team
-* Loss of 50 points for the player
+* خسارة فريقك 5 نقاط استخبارات
+* خصم 50 نقطة من رصيد اللاعب
 
 {% figure "../assets/dumpster_trucks.png" %}
-Different types of civilian trucks.
+أنواع مختلفة من الشاحنات المدنية.
 {% endfigure %}
 
-In the image above, the difference between a normal truck (left and midle) and a suicide truck (right) can be identified by whether it's loaded with explosive barrels and other suspicious objecs or not.
+في الصورة أعلاه، يمكن التمييز بين الشاحنة العادية (على اليسار وفي الوسط) وشاحنة التفجير الانتحارية (على اليمين) من خلال وجود براميل متفجرة وأجسام أخرى مثيرة للريبة محملة عليها من عدمه.
