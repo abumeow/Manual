@@ -371,72 +371,72 @@
 {% figure "../assets/grid.png" %}
 {% endfigure %}
 
-## _Basic Vehicle Information_ {#basic-vehicle-information}
+## _معلومات أساسية عن المركبات_ {#basic-vehicle-information}
 
-Many vehicles behave quite differently compared to BF2 and require more advanced knowledge to operate. Since they also have very long spawn times \(up to 20 minutes\) it is vital to know how to keep them away from problematic situations. This part will focus on explaining vehicle types and how they influence the team. For more details on how to use vehicles see the [Operating Vehicles chapter](operating_vehicles.md#general-vehicle-information).
+تختلف العديد من المركبات في Project Reality بشكل ملحوظ عما كانت عليه في BF2، وتتطلب مستوى أكبر من المعرفة والمهارة لتشغيلها. ونظرًا لأن زمن إعادة ظهورها (Respawn Time) طويل جدًا (وقد يصل إلى 20 دقيقة)، فمن الضروري معرفة كيفية الحفاظ عليها وتجنب تعريضها للمواقف الخطرة. يركز هذا القسم على شرح أنواع المركبات ودور كل منها وتأثيرها على أداء الفريق. ولمزيد من التفاصيل حول كيفية استخدام المركبات، راجع فصل [تشغيل المركبات](operating_vehicles.md#general-vehicle-information).
 
-There are many vehicle types in PR:BF2 used as classification. This isn’t always directly in line with their Real Life counterpart due to gameplay reasons. The following list shows you the main classes of vehicles in PR:BF2:
+توجد في Project Reality: BF2 العديد من فئات المركبات المستخدمة لتصنيفها داخل اللعبة. ولا تتطابق هذه التصنيفات دائمًا مع نظيراتها في الواقع، وذلك لأسباب تتعلق بتوازن أسلوب اللعب. توضح القائمة التالية الفئات الرئيسية للمركبات في PR:BF2:
 
-* **Jeep:** small transport vehicles that not always fill the entire squad. Can always drop small ammo crates. Sometimes are fitted with machine guns nests.
+* **جيب (Jeep)**: مركبة نقل خفيفة لا تتسع دائمًا لسكواد كامل. يمكنها دائمًا إسقاط صناديق ذخيرة صغيرة، كما تُزوَّد بعض طرازاتها برشاشات مثبتة.
 
 ![](../assets/jeep.png)
 
-* **Civilian vehicles:** PR:BF2’s insurgent forces have access to a range of civilian cars and technicals mounted with machine guns, rocket-pods and SPG-9 recoilless rifles. They also have a flatbed with a mounted AA-gun, bomb trucks and bomb cars in their arsenal. 
+* **المركبات المدنية (Civilian Vehicles)**: تمتلك قوات المتمردين في Project Reality: BF2 مجموعة متنوعة من المركبات المدنية، تشمل سيارات مدنية وتكنيكال مزودة برشاشات، وحواضن إطلاق صواريخ (Rocket Pods)، ومدافع SPG-9 عديمة الارتداد. كما يمتلكون أيضًا شاحنات مسطحة مزودة بمدافع مضادة للطائرات، بالإضافة إلى شاحنات مفخخة وسيارات مفخخة ضمن ترسانتهم. 
 
 ![](../assets/civiliancars.png)
 
-* **Truck:** come in both transport and logistic variants. The transport variant is capable of dropping 1 light supply crate and can fit an entire squad. The Logistic variant can only fit 2 soldiers and can drop 2 heavy supply crates, repair stations and Close Support Bridges.
+* **الشاحنات (Trucks)**: تتوفر بنوعين: شاحنات نقل وشاحنات لوجستية. شاحنة النقل تتسع لسكواد كامل، ويمكنها إسقاط صندوق إمدادات خفيف واحد. الشاحنة اللوجستية لا تتسع إلا لجنديين، لكنها تستطيع إسقاط صندوقي إمدادات ثقيلين، وإنشاء محطات إصلاح وجسور الدعم القريب.
 
 ![](../assets/truck.png)
 
-* **Armored Personnel Carrier \(APC\):** large armored vehicles more often than not armed with heavy weaponry. Often do not possess the force to defeat other heavy armored targets such as IFVs and tanks but are the best of all vehicle types at assisting infantry. Can fit 2 crewman \(driver and gunner\) and up to 6 soldier passengers.
+* **ناقلة الجنود المدرعة (Armored Personnel Carrier - APC)**: مركبات مدرعة كبيرة تُزوَّد في معظم الأحيان بأسلحة ثقيلة. ورغم أنها غالبًا لا تمتلك القوة الكافية لمواجهة الأهداف المدرعة الثقيلة مثل مركبات القتال للمشاة (IFVs) والدبابات، فإنها تُعد من أفضل أنواع المركبات في دعم المشاة. تتسع لطاقم مكوَّن من فردين (السائق والرامي)، بالإضافة إلى ستة جنود كركاب.
 
 ![](../assets/apc.png)
 
-* **Infantry Fighting Vehicle \(IFV\):** Better armed and stronger than most APCs with often capabilities to defeat heavy armored targets using AT-Missiles. Are not always capable of transporting infantry. Under this category often also fall the recon-vehicles.
+* **مركبة القتال للمشاة (Infantry Fighting Vehicle - IFV)**: تتمتع بتسليح أقوى وتدريع أفضل من معظم ناقلات الجنود المدرعة (APCs)، وغالبًا ما تكون مزودة بصواريخ مضادة للدبابات تمكنها من الاشتباك مع الأهداف المدرعة الثقيلة. ولا تكون جميعها قادرة على نقل المشاة. كما تندرج ضمن هذه الفئة في كثير من الأحيان مركبات الاستطلاع.
 
 ![](../assets/ifv.png)
 
-* **Anti-Tank Missile Mounted Vehicle \(ATM\):** The name speaks for itself. These are vehicles armed with AT-missiles to destroy other armored vehicles. Cannot transport infantry.
+* **مركبة مزودة بصواريخ مضادة للدبابات (Anti-Tank Missile Mounted Vehicle - ATM)**: كما يوحي اسمها، فهي مركبات مسلحة بصواريخ مضادة للدبابات مخصصة لتدمير المركبات المدرعة الأخرى. ولا يمكنها نقل المشاة.
 
 ![](../assets/atm.png)
 
-* **Tank:** Our heaviest of armored vehicles. They come equipped with AP, HE and COAX weaponry.
+* **الدبابة (Tank)**: أثقل المركبات المدرعة في اللعبة. وهي مزودة بمدفع يطلق قذائف خارقة للدروع (AP) وقذائف شديدة الانفجار (HE)، بالإضافة إلى رشاش متحد المحور (Coaxial Machine Gun - COAX).
 
 ![](../assets/tank.png)
 
-* **Anti-Air Vehicle:** These are usually light armored vehicles with only the ability to take out enemy aircraft and helicopters. They can use missiles or/and heavy guns.
+* **مركبة مضادة للطائرات (Anti-Air Vehicle)**: تكون عادةً مركبات مدرعة خفيفة، ومهمتها الأساسية التصدي للطائرات والمروحيات المعادية. وقد تكون مزودة بصواريخ أو مدافع ثقيلة، أو بكليهما.
 
 ![](../assets/aavehicles.png)
 
-* **Boat:** PR:BF2 has a variety of boats, both armed and un-armed.
+* **القوارب (Boats)**: تضم Project Reality: BF2 مجموعة متنوعة من القوارب، منها المسلحة ومنها غير المسلحة.
 
 ![](../assets/boats.png)
 
-* **Transport Helicopter:** These helicopters usually come equipped with door-guns for the mounted infantry to use. They are also capable of dropping heavy supply crates. There are light, medium and heavy transport choppers. See the section on [Supply Crates](the_basics.md#crates) to read on which variant has which crates available to it.
+* **مروحية النقل (Transport Helicopter)**: تكون هذه المروحيات عادةً مزودة برشاشات جانبية يمكن للجنود استخدامها أثناء التحليق. كما تستطيع إسقاط صناديق الإمدادات الثقيلة. وتنقسم إلى خفيفة ومتوسطة وثقيلة. ولمعرفة أنواع صناديق الإمدادات التي يمكن لكل فئة إسقاطها، راجع قسم صناديق الإمدادات (Supply Crates).
 
 ![](../assets/transheli.png)
 
-* **Attack Helicopters:** These helicopters come equipped with machine-gun pods and a variety of rockets and missiles. There are light, medium and heavy variants. Under this category also fall recon helicopters with the ability to laze targets and use their thermal cameras. They are not always armed.
+* **المروحيات الهجومية (Attack Helicopters)**: تُجهَّز هذه المروحيات بحواضن رشاشات، إلى جانب مجموعة متنوعة من الصواريخ والقذائف. وتتوفر بفئات خفيفة ومتوسطة وثقيلة. كما تندرج ضمن هذه الفئة مروحيات الاستطلاع القادرة على تعيين الأهداف بالليزر (Laser Designation) واستخدام الكاميرات الحرارية، رغم أنها ليست مسلحة دائمًا.
 
 ![](../assets/attackhelis.png)
 
-* **Jets:** PR:BF2 has a wide variety of jets. There are light and heavy attack jets, fighter jets, bombers and fighter-bombers.
+* **الطائرات النفاثة (Jets)**: تضم Project Reality: BF2 مجموعة واسعة من الطائرات النفاثة، تشمل طائرات الهجوم الخفيفة والثقيلة، والمقاتلات، والقاذفات، والمقاتلات القاذفة.
 
 ![](../assets/jets.png)
 
-* All friendly vehicles are marked on the map with unique icons for easy identification \(See [Vehicle Icons](vehicle_icons.md)\).
-* If a team vehicle asset is destroyed it incurs a ticket penalty:
-  * Jeep or truck: **2 tickets**
-  * Transport helicopter: **5 tickets**
-  * APC/AAV/RECON: **5 tickets**
-  * Tank or IFV: **10 tickets**
-  * Jet or attack helicopter: **10 tickets**
-* Vehicles are **Team Locked** and you cannot operate enemy vehicles of any kind.
-* Vehicles can only **be entered from appropriate positions** on the hull.
+* تُعرض جميع المركبات الصديقة على الخريطة بأيقونات مميزة لتسهيل التعرف عليها راجع [أيقونات المركبات](vehicle_icons.md).
+* يؤدي تدمير إحدى مركبات الفريق إلى خصم عدد من التذاكر حسب نوعها:
+  * جيب أو شاحنة: **تذكرتان**
+  * مروحية نقل: **5 تذاكر**
+  * ناقلة جنود مدرعة (APC) / مركبة مضادة للطائرات (AAV) / مركبة استطلاع (Recon): **5 تذاكر**
+  * دبابة أو مركبة قتال للمشاة (IFV): **10 تذاكر**
+  * طائرة نفاثة أو مروحية هجومية: **10 تذاكر**
+* جميع المركبات **مقفلة على فريقها (Team Locked)**، ولا يمكن استخدام أو تشغيل أي مركبة تابعة للفريق المعادي.
+* لا يمكن دخول المركبات إلا من **مواضع الدخول المخصصة على هيكلها**.
 
 {% figure "../assets/entrypoints.png" %}
-Vehicle entry points can differ per vehicle. Look for hatches.
+ختلف نقاط الدخول باختلاف نوع المركبة. ابحث عن الأبواب أو الفتحات المخصصة للدخول.
 {% endfigure %}
 
 * Normal soldiers are allowed to drive small unarmored vehicles such as jeeps, trucks and boats without the need for any specialized kit. If you require **a crewman or pilot kit** to operate a vehicle position, you will receive a warning message upon entering it and the screen will fade to black. If you do not exit the vehicle position within a few seconds, you will die.
