@@ -74,28 +74,28 @@
 قائمة بناء المنشآت عبر جهاز الراديو.
 {% endfigure %}
 
-To deploy a structure follow these steps:
+لنشر منشأة، اتبع الخطوات التالية:
 
-1. Select and activate the radio / cellphone.
-2. Look in the direction where the structure should be positioned. It will be placed 10m in front of you.
-3. Once you deploy it, press the **secondary radio menu key \(T\).**
-4. Left click your mouse on **DEPLOY / REMOVE ASSET.**
-5. Select the structure you want to build from the list.
+1. اختر جهاز الراديو أو الهاتف المحمول وقم بتفعيله.
+2. وجّه نظرك إلى المكان الذي تريد وضع المنشأة فيه. وسيتم نشرها على بُعد 10 أمتار أمامك.
+3.بعد ذلك، اضغط **زر قائمة الراديو الثانوية (T).**
+4. انقر بزر الفأرة الأيسر على خيار **DEPLOY / REMOVE ASSET.**
+5. اختر المنشأة التي تريد بناءها من القائمة.
 
 {% figure "../assets/shovel.png" %}
-Shovel needed to build up deployables.
+تُستخدم المجرفة لبناء المنشآت القابلة للنشر.
 {% endfigure %}
 
-Players currently standing where the deployable is being placed will die. So make sure your squad knows where you intend to build. Soldiers need to use **the entrenching tool** to build assets. Construction is complete once the digging stops.
+أي لاعب يقف في المكان الذي سيتم فيه نشر المنشأة سيلقى حتفه، لذا احرص على إبلاغ أفراد فرقتك بالمكان الذي تنوي البناء فيه.يجب على الجنود استخدام **المجرفة العسكرية** لبناء المنشآت. ويكتمل البناء بمجرد توقف الحفر.  
 
-Place the deployables on open terrain and non obstructed area to avoid undesirable effects and unwanted placement locations. The deployable will only appear if its placement location isn't too far above or below your position.
+احرص على نشر المنشآت في أرض مفتوحة وخالية من العوائق، لتجنب حدوث مشكلات أو وضعها في مواقع غير مرغوبة. كما لن تظهر المنشأة إلا إذا كان موقع نشرها ليس أعلى أو أسفل منك بدرجة كبيرة.
 
-To dismantle a built structure the Squad Leader is able to right-click **DEPLOY / REMOVE ASSET** through the commo rose menu whilst pointing towards the object no more than 5m away, to completely remove it repeat the steps. Squad members can also use the entrenching tools right click to destroy fortifications.
+لتفكيك منشأة مبنية، يستطيع قائد الفرقة النقر بزر الفأرة الأيمن على خيار **DEPLOY / REMOVE ASSET** من قائمة الاتصال، مع توجيه المؤشر نحو المنشأة من مسافة لا تزيد على 5 أمتار. ولإزالتها بالكامل، كرر العملية مرة أخرى. كما يستطيع أفراد الفرقة استخدام المجرفة العسكرية بالنقر بزر الفأرة الأيمن لهدم التحصينات.
 
-Deployable Emplacements weapons can be rearmed by dropping ammunition bags next to them. Several bags are needed to completely rearm an emplacement.
+يمكن إعادة تذخير أسلحة المنشآت القابلة للنشر بإسقاط أكياس الذخيرة بجوارها، وقد يلزم استخدام عدة أكياس لإعادة تذخير المنشأة بالكامل.
 
 {% figure "../assets/deploy.png" %}
-Unbuild and build examples of a foxhole.
+مثال على خندق رماية قبل البناء وبعده.
 {% endfigure %}
 
 ## _Deployable Structures_ {#deployable-structures}
