@@ -1,7 +1,6 @@
 # أيقونات المركبات
 
-To learn more about them you can visit the [PR Icon-to-Assets Index](https://realitymod.github.io/PR-Assets-Indexes/icon-to-asset_index.html) where you can see exactly which vehicles are represented by a given icon.
-
+للتعرف عليها بشكلٍ أفضل، يمكنك زيارة [فهرس أيقونات المركبات في Project Reality (PR Icon-to-Assets Index)](https://realitymod.github.io/PR-Assets-Indexes/icon-to-asset_index.html)، حيث ستجد المركبات التي تمثلها كل أيقونة.
 <div style="text-align: center";>
 
 <style>
@@ -125,7 +124,7 @@ img {
     <img src="../assets/asset_icons/mini_tec_rocket.png" alt="tec_rocket" title="Rocket Technical"    hspace="4">
     <img src="../assets/asset_icons/mini_tec_spg.png"    alt="tec_spg"    title="SPG-9 Technical"     hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>لمركبات المسلحة (Technicals)</i></p>
+<p style="color:rgb(98,160,216);"><i>المركبات المسلحة (Technicals)</i></p>
 
 <br><br>
 
