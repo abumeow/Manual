@@ -98,9 +98,9 @@
 مثال على خندق رماية قبل البناء وبعده.
 {% endfigure %}
 
-## _Deployable Structures_ {#deployable-structures}
+## _المنشآت القابلة للنشر_ {#deployable-structures}
 
-Here is a list of the deployable structures and the requirements for building them. Deployable assets can be either dismantled with a shovel or alternatively destroyed with C4, IEDs, tank shells, APC shells, mortar shelling, or any other form of heavy ordnance. Deployables can also be completely destroyed by continuing to damage the base of the emplacement. Forward outposts and hideouts can be destroyed as well by ordnance or C4 plastic explosives and TNT.
+فيما يلي قائمة بالمنشآت القابلة للنشر، بالإضافة إلى متطلبات بنائها. يمكن تفكيك المنشآت القابلة للنشر باستخدام المجرفة العسكرية، كما يمكن تدميرها باستخدام عبوات C4 أو العبوات الناسفة المرتجلة (IED) أو قذائف الدبابات أو قذائف ناقلات الجنود المدرعة (APC) أو قذائف الهاون أو أي نوع آخر من الذخائر الثقيلة. كما يمكن تدمير المنشآت القابلة للنشر بالكامل بمواصلة إلحاق الضرر بقاعدتها. أما قواعد العمليات الأمامية (FOB) والمخابئ (Hideouts)، فيمكن أيضًا تدميرها باستخدام الذخائر الثقيلة أو عبوات C4 أو متفجرات TNT.
 
 An important note on the requirements and limitations listed below is that all values about distance to an FOB and the maximum amount of assets per FOB are doubled on the CNC gamemode \(except for the amount of mortars\). Also remember that 2 large supply crates can also be replaced by 4 small supply crates or 1 large and 2 small crates. To learn more about logistics and crates see [the logistics chapter](the_basics.md#logistics).
 
