@@ -88,9 +88,9 @@
 
 > _كتات: Field Dressing: جميع الجنود \| First Aid kit, Drag, Epipen: Combat Medic / Corpsman / Insurgent Medic_
 
-![cuserswouterdesktop19.png](../assets/cuserswouterdesktop19.png)**Extra Ammunition** can be used when a player is running out of rounds. A single ammo bag will usually provide a few magazines and a grenade or two. The ammo bag can also be used to rearm deployable weapons like MGs, anti-tank launchers and mortar emplacements.
+![cuserswouterdesktop19.png](../assets/cuserswouterdesktop19.png)**الذخيرة الإضافية** تُستخدم لتزويد اللاعبين بالذخيرة عند اقتراب نفادها. وعادةً ما يوفر كيس ذخيرة واحد عدة مخازن ذخيرة بالإضافة إلى قنبلة يدوية أو اثنتين. كما يمكن استخدام حقيبة الذخيرة لإعادة تذخير الأسلحة والمنشآت القابلة للبناء، مثل الرشاشات الثابتة، وقاذفات مضادات الدروع، ومرابض الهاون. 
 
-> _Kits: Rifleman and various Insurgent rifleman kits_
+> _الكتات: Rifleman وكتات Rifleman المختلفة لدى الفصائل المتمردة_
 
 ![cuserswouterdesktop17.png](../assets/cuserswouterdesktop17.png)**Entrenchment tool** is used to construct deployable structures for the team. It can't be used offensively. To construct a structure you need to point towards it and hold the fire button until the digging animation stops. The alternate commo-rose option allows squad leaders to demolish friendly foxholes and razor wire road blocks.
 
