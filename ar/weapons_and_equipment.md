@@ -92,17 +92,18 @@
 
 > _الكتات: Rifleman وكتات Rifleman المختلفة لدى الفصائل المتمردة_
 
-![cuserswouterdesktop17.png](../assets/cuserswouterdesktop17.png)**Entrenchment tool** is used to construct deployable structures for the team. It can't be used offensively. To construct a structure you need to point towards it and hold the fire button until the digging animation stops. The alternate commo-rose option allows squad leaders to demolish friendly foxholes and razor wire road blocks.
+![cuserswouterdesktop17.png](../assets/cuserswouterdesktop17.png)**المجرفة** تُستخدم لبناء المنشآت القابلة للبناء الخاصة بالفريق، ولا يمكن استخدامها كسلاح هجومي. ولإنشاء أي منشأة، وجّه المؤشر نحوها، ثم استمر بالضغط على زر الإطلاق حتى تنتهي حركة الحفر. كما تتيح القائمة البديلة للأوامر (Commo Rose) لقائد الفرقة إزالة الخنادق الفردية (Foxholes) وحواجز الأسلاك الشائكة التابعة لفريقه.
 
-**The Wrench/Repair Kit** is used to disarm and remove explosives such as land mines, IEDs, trip flares and grenade traps. It can also provide repairs to particular light vehicles when they have sustained damage. It can also be used to build structures. Both the shovel and the wrench are capable of repairing a cache.
 
-> _Kits: Entrenching Tool: all except for Officer, Combat Medic / Corpsman, Sniper, Pilot, Cell leader and Hamas Civilian_
+أما أداة Wrench/Repair** Kit** فتُستخدم لتعطيل وإزالة المتفجرات مثل الألغام الأرضية، والعبوات الناسفة المرتجلة (IED)، والشعلات السلكية (Trip Flares)، والفخاخ اليدوية. كما يمكن استخدامها لإصلاح بعض المركبات الخفيفة عند تعرضها لأضرار، وكذلك لبناء المنشآت. وكلٌّ من المجرفة وWrench قادر على إصلاح مخبأ الذخيرة (Cache).
 
-> _Wrench: Conventional forces Combat Engineer_
+> _الكتات: Entrenching Tool: all except for Officer, Combat Medic / Corpsman, Sniper, Pilot, Cell leader and Hamas Civilian_
 
-![cuserswouterdesktop20.png](../assets/cuserswouterdesktop20.png)**Smoke Grenades** are used to conceal troop movement or to signal friendly aircraft. Smoke screen generally take about 30 seconds to augment and fill out. The cover lasts for more than one minute before dissipating. 
+> _الكتات: Conventional forces Combat Engineer_
 
-> _Kits: Smoke Grenade: most kits \| Signal Smoke: Officer, conventional forces Sniper, Pilot_
+![cuserswouterdesktop20.png](../assets/cuserswouterdesktop20.png)**القنابل الدخانية** تُستخدم لإخفاء تحركات القوات أو لإرسال إشارات إلى للطائرات الصديقة. ويستغرق الستار الدخاني حوالي 30 ثانية حتى يكتمل انتشاره ويصبح كثيفًا، ثم يستمر لأكثر من دقيقة واحدة قبل أن يتلاشى.
+
+> _الكتات: Smoke Grenade: most kits \| Signal Smoke: Officer, conventional forces Sniper, Pilot_
 
 ![cuserswouterdesktop21.png](../assets/cuserswouterdesktop21.png)**Binoculars** allow soldiers to spot distant enemies and identify unknown contacts. Officers and cell leaders can also use their binoculars to request mortar strikes. **The ground laser target designator** \(GLTD\) is used to mark targets for engagement by friendly aircraft and mortar sites.
 
