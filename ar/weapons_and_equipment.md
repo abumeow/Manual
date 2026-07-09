@@ -80,8 +80,9 @@
 
 > _الكتات: Small C4: Conventional Forces Combat Engineer & Breacher \| Large C4: Conventional Forces Combat Engineer_
 
-![mine_weapon.png](../assets/mine_weapon.png)الألغام** هي متفجرات تنفجر عند ملامستها، ويمكن لكت** Combat Engineer استخدامها.
-> _Kits: Combat engineer_
+![mine_weapon.png](../assets/mine_weapon.png)**الألغام** هي متفجرات تنفجر عند ملامستها، ويمكن لكت Combat Engineer استخدامها. تظهر الألغام فوق سطح الأرض، إلا أن المركبات التي تتحرك بسرعة قد تعبر فوقها دون أن يلاحظها سائقها. عند زرع لغم (اضغط مع الاستمرار على Q)، ستُضاف علامة على خريطة فريقك، كما هو الحال مع IED، ويمكنك أيضًا وضع ما يصل إلى ثلاث علامات ألغام يدويًا. ويمكن إزالة الألغام باستخدام أداة Wrench الخاصة بكت Combat Engineer، أو تفجيرها باستخدام C4.
+
+> _الكتات: Combat engineer_
 
 ![cuserswouterdesktop18.png](../assets/cuserswouterdesktop18.png)**Field dressings** restore 25% health. They are thrown onto the ground to heal the player standing closest to the dressing. Field dressings are selected by pressing the 8 or 9 key. **The first aid kit** can fully heal a player and is used by keeping the fire button pressed while aiming at the person to be healed. First aid kits are no longer dropped and take some time to fully heal a heavily injured player. A medic can heal himself by using the patches provided. Players inside a vehicle with a medic will heal automatically over time. **The epipen** is then used to revive them. Freshly revived soldiers need immediate medical treatment to prevent them from bleeding out. **Drag** is used to move a wounded player prior to administering an epinephrine shot. You need to be crouched before being able to use this. 
 
