@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Languages](langs.md)
 * [Arabic  - v1.8](ar/README.md)
-    *   [ألاعداد](ar/set-up.md)
+    * [ألاعداد](ar/set-up.md)
     * [أنماط اللعب](ar/game_modes.md)
     * [ألأساسيات](ar/the_basics.md)
     * [الأسلحة والمعدات](ar/weapons_and_equipment.md)
