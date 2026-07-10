@@ -113,21 +113,21 @@
 
 > _الكتات: Officer, Cell Leader, Spotter, Civilian_
 
-![cuserswouterdesktop23.png](../assets/cuserswouterdesktop23.png)**The Grappling Hook** is used to traverse over walls, buildings or to gain access to the top of structures to allow key squad member to have height advantage. After the hook has successfully attached itself to a surface, any player can accend up the rope by pressing the “enter/exit” key \(default: E\) and moving forward to climb and backwards to slide down the rope. They remain in position for 3 minutes and can be retrieved by the player using the pickup kit key \(default: G\). If you get incapaciated while climbing a rope - you will die, and not be reviveable \(much like climbing a ladder\).
+![cuserswouterdesktop23.png](../assets/cuserswouterdesktop23.png)**خطاف التسلق** يُستخدم لتجاوز الجدران والمباني أو للوصول إلى أسطحها، مما يمنح أفرادًا مهمين في الفرقة أفضلية الارتفاع. وبعد أن يثبت الخطاف في مكانه بنجاح، يمكن لأي لاعب الصعود عبر الحبل بالضغط على مفتاح الدخول/الخروج (الزر الافتراضي: E)، ثم التحرك للأمام للصعود أو للخلف للنزول منزلقًا على الحبل. ويبقى الحبل في مكانه لمدة 3 دقائق، ويمكن للاعب الذي وضعه استعادته باستخدام مفتاح التقاط الكِت (الزر الافتراضي: G). وإذا أُصيبت إصابة حرجة أثناء تسلق الحبل، فسوف تموت مباشرة ولن يكون بالإمكان إنعاشك، تمامًا كما يحدث عند تسلق السلالم.
 
-> _Kits: Rifleman Breacher, Scout, Civilian_
+> _الكتات: Rifleman Breacher, Scout, Civilian_
 
-**Parachutes** are used by pilots and paratroopers. They are deployed automatically when spawning in a paratrooper deployed faction. When ejecting from a fixed-wing aircraft the ejection seat will also automatically deploy the parachute. It can also be deployed manually in other cases \(default: **9**\). Parachutes need to be opened an ample time before reaching the ground to avoid injury or a mild case of death. After your Squad Leader has reached the ground on a map supporting paradrops, a special supply crate appears next to him. This crate can only be used to request kits.
+**المظلات** يستخدمها الطيارون وقوات الإنزال الجوي.وتُفتح تلقائيًا عند الظهور في الفصائل التي تظهر/ترسبن بواسطة الإنزال الجوي. وعند استخدام مقعد القذف من طائرة نفاثة، يقوم مقعد القذف أيضًا بفتح المظلة تلقائيًا. كما يمكن فتحها يدويًا في الحالات الأخرى **(الزر الافتراضي: 9)**. ويجب فتح المظلة قبل الوصول إلى الأرض بوقتٍ كافٍ لتجنب الإصابة أو الموت. وبعد وصول قائد الفرقة إلى الأرض على الخرائط التي تدعم الإنزال الجوي، تظهر بجواره حاوية إمداد خاصة. ولا يمكن استخدام هذه الحاوية إلا لطلب الكِتات.
 
-> _Kits: Pilot, any spawnable kit used by a team with a paradrop spawn point_
+> _الكتات: Pilot، وأي كت قابل للظهور لدى فريق يمتلك نقطة ظهور بالإنزال الجوي._
 
-## _Back Up Iron Sights \(BUIS\)_ {#buis}
+## _المشاهد الحديدية الاحتياطية \(BUIS\)_ {#buis}
 
-**Back up iron sights \(BUIS\)** are designed to provide the operator with an alternative method to acquisition a target depending on situation. Provided the weapon has BUIS equipped, a player will able to switch between backup sights and optics using **the pre-existing Cycle Camera key \(C\)**. On the lower right hand corner is a small icon \(S for scope, B for BUIS\) displaying the currently selected view method. It is possible to change which method you’re using when aiming down sights, increasing your ability to either locate hostiles or precisely aim quickly. 
+**المشاهد الحديدية الاحتياطية (BUIS)** صُممت لتمنح الرامي وسيلة تصويب بديلة تناسب الموقف. إذا كان السلاح مزودًا بهذه المشاهد، فيمكن للاعب التبديل بين المنظار والمشاهد الحديدية الاحتياطية باستخدام زر تبديل الكاميرا **(الزر الافتراضي: C)**. ويظهر في أسفل يمين الشاشة رمز صغير يوضح وسيلة التصويب النشطة حاليًا: S = المنظار. B = المشاهد الحديدية الاحتياطية. كما يمكن التبديل بين المنظار والمشاهد الحديدية أثناء التصويب، مما يتيح لك اختيار الوسيلة الأنسب حسب الموقف، سواءً لرصد الأهداف بسرعة أو للتصويب بدقة أكبر.
 
 {% figure "../assets/buis.png" %}
 {% endfigure %}
 
-## _Altering Sighting Range_ {#altering-sighting-range}
+## _تغيير مدى التصويب_ {#altering-sighting-range}
 
-{{ "Video Tutorial - Sighting Range" | youtube("cLfdH1EHWPA") }}
+{{ "شرح بالفيديو: تغيير مدى التصويب" | youtube("cLfdH1EHWPA") }}
