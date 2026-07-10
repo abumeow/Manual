@@ -17,5 +17,5 @@
 * [المدني](the_civilian.md)
 * [التتبع وإعادة عرض المعركة](replays.md)
 
-### المساعدة
-* [المساهمة في تطوير الدليل](help_manual.md)
+### Help
+* [Expand manual](help_manual.md)
